@@ -1,0 +1,4333 @@
+#EXTM3U
+#EXTINF:-1,A Fazenda [Principal]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/179430
+#EXTINF:-1,A Fazenda [CAM 2]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/177437
+#EXTINF:-1,A Fazenda [CAM 3]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/176732
+#EXTINF:-1,A Fazenda [CAM 4]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169540
+#EXTINF:-1,A Fazenda [CAM 5]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/165426
+#EXTINF:-1,A Fazenda [CAM 6]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/165222
+#EXTINF:-1,A Fazenda [CAM 7]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164592
+#EXTINF:-1,A&E FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139100
+#EXTINF:-1,A&E FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147431
+#EXTINF:-1,A&E FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83335
+#EXTINF:-1,A&E HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83185
+#EXTINF:-1,A&E HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147432
+#EXTINF:-1,A&E SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83521
+#EXTINF:-1,Agro+ FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162557
+#EXTINF:-1,Agro+ FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147461
+#EXTINF:-1,Agro+ HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152570
+#EXTINF:-1,Agro+ HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140815
+#EXTINF:-1,Agro+ SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162556
+#EXTINF:-1,Alexandre Pires e Seu Jorge [Live Irmãos]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136185
+#EXTINF:-1,Alexandre Pires [Live do Nego Véio]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136186
+#EXTINF:-1,AMC FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136797
+#EXTINF:-1,AMC FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/142161
+#EXTINF:-1,AMC FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83336
+#EXTINF:-1,AMC HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83186
+#EXTINF:-1,AMC HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136814
+#EXTINF:-1,AMC SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83522
+#EXTINF:-1,Animal Planet 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151041
+#EXTINF:-1,Animal Planet FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/87312
+#EXTINF:-1,Animal Planet FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147434
+#EXTINF:-1,Animal Planet FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83368
+#EXTINF:-1,Animal Planet HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83187
+#EXTINF:-1,Animal Planet HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147435
+#EXTINF:-1,Animal Planet SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83523
+#EXTINF:-1,Arte 1 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147358
+#EXTINF:-1,Arte 1 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147436
+#EXTINF:-1,Arte 1 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164576
+#EXTINF:-1,Arte 1 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150162
+#EXTINF:-1,Arte 1 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147437
+#EXTINF:-1,Arte 1 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162558
+#EXTINF:-1,AXN FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136792
+#EXTINF:-1,AXN FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147438
+#EXTINF:-1,AXN FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83369
+#EXTINF:-1,AXN HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83188
+#EXTINF:-1,AXN HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147439
+#EXTINF:-1,AXN SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83524
+#EXTINF:-1,B&M + Wesley Safadão [Live 19-09-2020]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133622
+#EXTINF:-1,Baby TV FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147440
+#EXTINF:-1,Baby TV HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162947
+#EXTINF:-1,Baby TV SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147441
+#EXTINF:-1,BAND 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83435
+#EXTINF:-1,BAND Brasilia FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/163695
+#EXTINF:-1,BAND Brasilia HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83439
+#EXTINF:-1,BAND Campinas HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/195185
+#EXTINF:-1,BAND Campinas SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/195184
+#EXTINF:-1,BAND Cascavel TV Taroba
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/288603
+#EXTINF:-1,BAND Ceará FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/288602
+#EXTINF:-1,BAND Curitiba HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151319
+#EXTINF:-1,BAND FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147442
+#EXTINF:-1,BAND HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147443
+#EXTINF:-1,BAND MG FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162945
+#EXTINF:-1,BAND MG HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/260033
+#EXTINF:-1,BAND MG SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83591
+#EXTINF:-1,BAND Natal HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/288604
+#EXTINF:-1,BAND News FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139115
+#EXTINF:-1,BAND News FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147444
+#EXTINF:-1,BAND News FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83370
+#EXTINF:-1,BAND News HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83308
+#EXTINF:-1,BAND News HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147445
+#EXTINF:-1,BAND News SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83528
+#EXTINF:-1,Band PA HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162759
+#EXTINF:-1,Band RJ FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/195180
+#EXTINF:-1,Band RJ HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/195179
+#EXTINF:-1,Band RJ SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/287469
+#EXTINF:-1,Band RS FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83772
+#EXTINF:-1,Band RS HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/156620
+#EXTINF:-1,Band RS SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/195186
+#EXTINF:-1,BAND SP FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83769
+#EXTINF:-1,BAND SP FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83726
+#EXTINF:-1,BAND SP HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/163037
+#EXTINF:-1,BAND SP SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83440
+#EXTINF:-1,BAND Sports FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83806
+#EXTINF:-1,BAND Sports FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147446
+#EXTINF:-1,BAND Sports FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83371
+#EXTINF:-1,BAND Sports HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83189
+#EXTINF:-1,BAND Sports HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147447
+#EXTINF:-1,BAND Sports SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83529
+#EXTINF:-1,BAND TV Tribuna Recife FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/288605
+#EXTINF:-1,Batman - Trilogia
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133415
+#EXTINF:-1,BIS FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147363
+#EXTINF:-1,BIS FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147449
+#EXTINF:-1,BIS FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83337
+#EXTINF:-1,BIS HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83190
+#EXTINF:-1,BIS HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147450
+#EXTINF:-1,BIS SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83530
+#EXTINF:-1,Bruno e Marrone [Live 16-05-2020]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133620
+#EXTINF:-1,Bruno e Marrone [Live 3 sem propagandas]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133624
+#EXTINF:-1,Bruno e Marrone [Live 4 sem propagandas]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133621
+#EXTINF:-1,Cachaça Cabaré 3 [Leonardo, Gusttavo Lima, Xand e Raí Saia Rodada]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/156621
+#EXTINF:-1,Cachaça Cabaré [Jorge e Mateus, Leonardo e Bruno e Marrone]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136196
+#EXTINF:-1,Canal Brasil FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147365
+#EXTINF:-1,Canal Brasil FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147454
+#EXTINF:-1,Canal Brasil FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83373
+#EXTINF:-1,Canal Brasil HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150167
+#EXTINF:-1,Canal Brasil HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147455
+#EXTINF:-1,Canal Brasil SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83532
+#EXTINF:-1,Canal do Boi FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162811
+#EXTINF:-1,Canal do Boi FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140987
+#EXTINF:-1,Canal do Boi HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162810
+#EXTINF:-1,Canal do Boi HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140939
+#EXTINF:-1,Canal do Boi SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83533
+#EXTINF:-1,Canal Rural FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150349
+#EXTINF:-1,Canal Rural HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/142027
+#EXTINF:-1,Canal Sony FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136801
+#EXTINF:-1,Canal Sony FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147680
+#EXTINF:-1,Canal Sony FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83374
+#EXTINF:-1,Canal Sony HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83191
+#EXTINF:-1,Canal Sony HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147681
+#EXTINF:-1,Canal Sony SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83534
+#EXTINF:-1,Canção Nova FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83535
+#EXTINF:-1,Canção Nova HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169526
+#EXTINF:-1,Canção Nova SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147457
+#EXTINF:-1,Cartoon Network 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151044
+#EXTINF:-1,Cartoon Network FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/126105
+#EXTINF:-1,Cartoon Network FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147458
+#EXTINF:-1,Cartoon Network FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83375
+#EXTINF:-1,Cartoon Network HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83192
+#EXTINF:-1,Cartoon Network HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147459
+#EXTINF:-1,Cartoon Network SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83536
+#EXTINF:-1,Cartoonito FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/126104
+#EXTINF:-1,Cartoonito FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169537
+#EXTINF:-1,Cartoonito FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83372
+#EXTINF:-1,Cartoonito HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140941
+#EXTINF:-1,Cartoonito HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/176172
+#EXTINF:-1,Cartoonito SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83531
+#EXTINF:-1,Cazé TV HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/155270
+#EXTINF:-1,CGTN SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/84743
+#EXTINF:-1,Cine Sky 01 [Gato de Botas 2: O Último Pedido]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83314
+#EXTINF:-1,Cine Sky 02 [Pantera Negra: Wakanda Para Sempre]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83315
+#EXTINF:-1,Cine Sky 03 [Alerta Máximo]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83316
+#EXTINF:-1,Cine Sky 04 [Irmãos de Honra]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83317
+#EXTINF:-1,Cine Sky 05 [Fantasma e CIA]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83318
+#EXTINF:-1,Cine Sky 06 [M3GAN]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83877
+#EXTINF:-1,Cine Sky 07 [Nada de Novo no Front]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/84773
+#EXTINF:-1,Cine Sky 08 [Duro de Atuar]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/84885
+#EXTINF:-1,Cine Sky 09 [Emancipation]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/86437
+#EXTINF:-1,Cine Sky 10 [O Pálido Olho Azul]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/86438
+#EXTINF:-1,Cine Sky 11 [O Pior Vizinho do Mundo]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/86439
+#EXTINF:-1,Cine Sky 12 [Os Fabelmans]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/86440
+#EXTINF:-1,Cine Sky 13 [A Baleia] [Legendado]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/86441
+#EXTINF:-1,Cine Sky 14 [Babilônia] [Legendado]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/86442
+#EXTINF:-1,Cine Sky 15 [Batem à Porta] [Legendado]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/86443
+#EXTINF:-1,Cinecanal FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136794
+#EXTINF:-1,Cinecanal FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147557
+#EXTINF:-1,Cinecanal FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/163282
+#EXTINF:-1,Cinecanal HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83213
+#EXTINF:-1,Cinecanal HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147558
+#EXTINF:-1,Cinecanal SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83559
+#EXTINF:-1,Cinemax FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136798
+#EXTINF:-1,Cinemax FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147462
+#EXTINF:-1,Cinemax FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83338
+#EXTINF:-1,Cinemax HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83193
+#EXTINF:-1,Cinemax HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147463
+#EXTINF:-1,Cinemax SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83537
+#EXTINF:-1,CNN Brasil FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83436
+#EXTINF:-1,CNN Brasil FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147464
+#EXTINF:-1,CNN Brasil FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164573
+#EXTINF:-1,CNN Brasil HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83306
+#EXTINF:-1,CNN Brasil HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147465
+#EXTINF:-1,CNN Brasil SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83669
+#EXTINF:-1,CNNi FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147468
+#EXTINF:-1,CNNi HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147469
+#EXTINF:-1,Combate 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151035
+#EXTINF:-1,Combate FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83821
+#EXTINF:-1,Combate FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147471
+#EXTINF:-1,Combate FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83376
+#EXTINF:-1,Combate HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83194
+#EXTINF:-1,Combate HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147472
+#EXTINF:-1,Combate SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83538
+#EXTINF:-1,Comedy Central 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/156473
+#EXTINF:-1,Comedy Central FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139107
+#EXTINF:-1,Comedy Central FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147473
+#EXTINF:-1,Comedy Central FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83339
+#EXTINF:-1,Comedy Central HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83195
+#EXTINF:-1,Comedy Central HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147474
+#EXTINF:-1,Comedy Central SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83539
+#EXTINF:-1,CONMEBOL Paramount+ 1 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/156746
+#EXTINF:-1,CONMEBOL Paramount+ 1 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83866
+#EXTINF:-1,CONMEBOL Paramount+ 1 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/122541
+#EXTINF:-1,CONMEBOL Paramount+ 2 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83706
+#EXTINF:-1,CONMEBOL Paramount+ 2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83869
+#EXTINF:-1,CONMEBOL Paramount+ 2 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83705
+#EXTINF:-1,CONMEBOL Paramount+ 3 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83712
+#EXTINF:-1,CONMEBOL Paramount+ 3 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/86706
+#EXTINF:-1,CONMEBOL Paramount+ 3 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83711
+#EXTINF:-1,CONMEBOL Paramount+ 4 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83715
+#EXTINF:-1,CONMEBOL Paramount+ 4 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/165437
+#EXTINF:-1,CONMEBOL Paramount+ 4 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83714
+#EXTINF:-1,Curta! FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162808
+#EXTINF:-1,Curta! FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147499
+#EXTINF:-1,Curta! FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164571
+#EXTINF:-1,Curta! HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162809
+#EXTINF:-1,Curta! HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147500
+#EXTINF:-1,Curta! SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83540
+#EXTINF:-1,DAZN 01 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83447
+#EXTINF:-1,DAZN 02 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151059
+#EXTINF:-1,DC Comics 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83876
+#EXTINF:-1,DC Comics 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83885
+#EXTINF:-1,Discovery Channel FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/87316
+#EXTINF:-1,Discovery Channel FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147503
+#EXTINF:-1,Discovery Channel FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83340
+#EXTINF:-1,Discovery Channel HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83196
+#EXTINF:-1,Discovery Channel HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147504
+#EXTINF:-1,Discovery Channel SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83541
+#EXTINF:-1,Discovery Home & Health FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/87315
+#EXTINF:-1,Discovery Home & Health FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147505
+#EXTINF:-1,Discovery Home & Health FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83341
+#EXTINF:-1,Discovery Home & Health HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83198
+#EXTINF:-1,Discovery Home & Health HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147506
+#EXTINF:-1,Discovery Home & Health SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83542
+#EXTINF:-1,Discovery ID FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/126101
+#EXTINF:-1,Discovery ID FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147507
+#EXTINF:-1,Discovery ID FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83355
+#EXTINF:-1,Discovery ID HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83230
+#EXTINF:-1,Discovery ID HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147508
+#EXTINF:-1,Discovery ID SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83578
+#EXTINF:-1,Discovery Kids FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/126106
+#EXTINF:-1,Discovery Kids FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147509
+#EXTINF:-1,Discovery Kids FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83378
+#EXTINF:-1,Discovery Kids HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83199
+#EXTINF:-1,Discovery Kids HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147510
+#EXTINF:-1,Discovery Kids SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83543
+#EXTINF:-1,Discovery Science FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/126102
+#EXTINF:-1,Discovery Science FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147511
+#EXTINF:-1,Discovery Science FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83379
+#EXTINF:-1,Discovery Science HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83200
+#EXTINF:-1,Discovery Science HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147512
+#EXTINF:-1,Discovery Science SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162807
+#EXTINF:-1,Discovery Theater FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/126103
+#EXTINF:-1,Discovery Theater FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147513
+#EXTINF:-1,Discovery Theater FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83342
+#EXTINF:-1,Discovery Theater HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83201
+#EXTINF:-1,Discovery Theater HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147514
+#EXTINF:-1,Discovery Theater SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162806
+#EXTINF:-1,Discovery Turbo FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/126100
+#EXTINF:-1,Discovery Turbo FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147515
+#EXTINF:-1,Discovery Turbo FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83343
+#EXTINF:-1,Discovery Turbo HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83202
+#EXTINF:-1,Discovery Turbo HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147516
+#EXTINF:-1,Discovery Turbo SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83544
+#EXTINF:-1,Discovery World FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/87310
+#EXTINF:-1,Discovery World FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147517
+#EXTINF:-1,Discovery World FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83344
+#EXTINF:-1,Discovery World HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83203
+#EXTINF:-1,Discovery World HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147518
+#EXTINF:-1,Discovery World SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162805
+#EXTINF:-1,Disney Channel FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/126107
+#EXTINF:-1,Disney Channel FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147519
+#EXTINF:-1,Disney Channel FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83380
+#EXTINF:-1,Disney Channel HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83204
+#EXTINF:-1,Disney Channel HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147520
+#EXTINF:-1,Disney Channel SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83545
+#EXTINF:-1,Disney Clássico 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/89549
+#EXTINF:-1,Disney Clássico 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/89550
+#EXTINF:-1,Djing Music TV SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/141032
+#EXTINF:-1,Dog TV FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162690
+#EXTINF:-1,Dog TV HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169512
+#EXTINF:-1,E! FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139113
+#EXTINF:-1,E! FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147525
+#EXTINF:-1,E! FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83345
+#EXTINF:-1,E! HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83206
+#EXTINF:-1,E! HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147526
+#EXTINF:-1,E! SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83548
+#EXTINF:-1,Eduardo Costa [Aqui em Uberlândia]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136588
+#EXTINF:-1,Eduardo Costa [Especial Dia dos Namorados]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136587
+#EXTINF:-1,ESPN 1 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/155420
+#EXTINF:-1,ESPN 1 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83809
+#EXTINF:-1,ESPN 1 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147541
+#EXTINF:-1,ESPN 1 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83385
+#EXTINF:-1,ESPN 1 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83208
+#EXTINF:-1,ESPN 1 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147542
+#EXTINF:-1,ESPN 1 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162796
+#EXTINF:-1,ESPN 2 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83807
+#EXTINF:-1,ESPN 2 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147545
+#EXTINF:-1,ESPN 2 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83383
+#EXTINF:-1,ESPN 2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83209
+#EXTINF:-1,ESPN 2 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147546
+#EXTINF:-1,ESPN 2 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83552
+#EXTINF:-1,ESPN 3 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151048
+#EXTINF:-1,ESPN 3 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83808
+#EXTINF:-1,ESPN 3 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147539
+#EXTINF:-1,ESPN 3 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83384
+#EXTINF:-1,ESPN 3 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83207
+#EXTINF:-1,ESPN 3 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147540
+#EXTINF:-1,ESPN 3 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83553
+#EXTINF:-1,ESPN 4 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151039
+#EXTINF:-1,ESPN 4 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83811
+#EXTINF:-1,ESPN 4 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147568
+#EXTINF:-1,ESPN 4 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83388
+#EXTINF:-1,ESPN 4 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83217
+#EXTINF:-1,ESPN 4 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147565
+#EXTINF:-1,ESPN 4 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83560
+#EXTINF:-1,ESPN Extra FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83810
+#EXTINF:-1,ESPN Extra FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147543
+#EXTINF:-1,ESPN Extra FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83382
+#EXTINF:-1,ESPN Extra HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83210
+#EXTINF:-1,ESPN Extra HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147544
+#EXTINF:-1,ESPN Extra SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162802
+#EXTINF:-1,Eurochannel FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147548
+#EXTINF:-1,Eurochannel HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147547
+#EXTINF:-1,Fashion TV FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147356
+#EXTINF:-1,Fashion TV FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147451
+#EXTINF:-1,Fashion TV HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150160
+#EXTINF:-1,Fashion TV HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147409
+#EXTINF:-1,Fashion TV SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162801
+#EXTINF:-1,Film & Arts FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147497
+#EXTINF:-1,Film & Arts HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147492
+#EXTINF:-1,Film & Arts SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83646
+#EXTINF:-1,Fish TV FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162799
+#EXTINF:-1,Fish TV FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147550
+#EXTINF:-1,Fish TV FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83386
+#EXTINF:-1,Fish TV HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162800
+#EXTINF:-1,Fish TV HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147551
+#EXTINF:-1,Fish TV SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83556
+#EXTINF:-1,Food Network FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139641
+#EXTINF:-1,Food Network FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147553
+#EXTINF:-1,Food Network FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83387
+#EXTINF:-1,Food Network HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83211
+#EXTINF:-1,Food Network HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147554
+#EXTINF:-1,Food Network SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83557
+#EXTINF:-1,FOX Sports 2 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151046
+#EXTINF:-1,FOX Sports 2 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83812
+#EXTINF:-1,FOX Sports 2 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147566
+#EXTINF:-1,FOX Sports 2 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83389
+#EXTINF:-1,FOX Sports 2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83216
+#EXTINF:-1,FOX Sports 2 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147567
+#EXTINF:-1,FOX Sports 2 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83561
+#EXTINF:-1,France 24 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140895
+#EXTINF:-1,France 24 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147466
+#EXTINF:-1,Furacão Brasileirão HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/148195
+#EXTINF:-1,Futura FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162794
+#EXTINF:-1,Futura FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147569
+#EXTINF:-1,Futura HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162795
+#EXTINF:-1,Futura HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147460
+#EXTINF:-1,Futura SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83562
+#EXTINF:-1,FX FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136799
+#EXTINF:-1,FX FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147570
+#EXTINF:-1,FX FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83390
+#EXTINF:-1,FX HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83218
+#EXTINF:-1,FX HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147571
+#EXTINF:-1,FX SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83563
+#EXTINF:-1,GB Araxá MG FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162710
+#EXTINF:-1,GB Araxá MG HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162709
+#EXTINF:-1,GB Araxá MG SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162708
+#EXTINF:-1,GB Bahia Salvador FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/132027
+#EXTINF:-1,GB Bahia Salvador FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147391
+#EXTINF:-1,GB Bahia Salvador HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/132028
+#EXTINF:-1,GB Bahia Salvador HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147392
+#EXTINF:-1,GB Bahia Salvador SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83644
+#EXTINF:-1,GB Brasilia FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/154000
+#EXTINF:-1,GB Brasilia FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147395
+#EXTINF:-1,GB Brasilia HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83455
+#EXTINF:-1,GB Brasilia HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147396
+#EXTINF:-1,GB Brasilia SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83564
+#EXTINF:-1,GB EPTV Campinas FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83504
+#EXTINF:-1,GB EPTV Campinas FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147370
+#EXTINF:-1,GB EPTV Campinas HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83503
+#EXTINF:-1,GB EPTV Campinas HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147371
+#EXTINF:-1,GB EPTV Campinas SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83550
+#EXTINF:-1,GB EPTV Central Sao Carlos FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83515
+#EXTINF:-1,GB EPTV Central Sao Carlos HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162804
+#EXTINF:-1,GB EPTV Central Sao Carlos SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83549
+#EXTINF:-1,GB EPTV Ribeirao Preto FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83434
+#EXTINF:-1,GB EPTV Ribeirao Preto HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83514
+#EXTINF:-1,GB EPTV Ribeirao Preto SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/165432
+#EXTINF:-1,GB EPTV Sul de Minas FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162812
+#EXTINF:-1,GB EPTV Sul de Minas HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83516
+#EXTINF:-1,GB EPTV Sul de Minas SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/284490
+#EXTINF:-1,GB Inter TV Alto Litoral FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162707
+#EXTINF:-1,GB Inter TV Alto Litoral FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147406
+#EXTINF:-1,GB Inter TV Alto Litoral HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162706
+#EXTINF:-1,GB Inter TV Alto Litoral SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162705
+#EXTINF:-1,GB Inter TV Cabugi Natal FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162784
+#EXTINF:-1,GB Inter TV Cabugi Natal HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162785
+#EXTINF:-1,GB Inter TV Cabugi Natal SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147407
+#EXTINF:-1,GB Inter TV dos Vales FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162713
+#EXTINF:-1,GB Inter TV dos Vales HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162712
+#EXTINF:-1,GB Inter TV Serra Mar FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150157
+#EXTINF:-1,GB Inter TV Serra Mar HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150156
+#EXTINF:-1,GB Inter TV Serra Mar SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164591
+#EXTINF:-1,GB MG Inter TV Grande Minas FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/165439
+#EXTINF:-1,GB MG Inter TV Grande Minas HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/165440
+#EXTINF:-1,GB MG Inter TV Grande Minas SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162674
+#EXTINF:-1,GB Minas FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162792
+#EXTINF:-1,GB Minas FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147374
+#EXTINF:-1,GB Minas HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83491
+#EXTINF:-1,GB Minas HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147375
+#EXTINF:-1,GB Minas SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83565
+#EXTINF:-1,GB Nordeste Recife FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162790
+#EXTINF:-1,GB Nordeste Recife FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147376
+#EXTINF:-1,GB Nordeste Recife HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162791
+#EXTINF:-1,GB Nordeste Recife HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147377
+#EXTINF:-1,GB Nordeste Recife SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83567
+#EXTINF:-1,GB NSC TV Blumenau FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162778
+#EXTINF:-1,GB NSC TV Blumenau FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147410
+#EXTINF:-1,GB NSC TV Blumenau HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83489
+#EXTINF:-1,GB NSC TV Blumenau HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147670
+#EXTINF:-1,GB NSC TV Centro Oeste FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/193334
+#EXTINF:-1,GB NSC TV Centro Oeste HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/193333
+#EXTINF:-1,GB NSC TV Centro Oeste SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/126115
+#EXTINF:-1,GB NSC TV Chapeco FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162714
+#EXTINF:-1,GB NSC TV Chapeco HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147411
+#EXTINF:-1,GB NSC TV Chapeco SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162715
+#EXTINF:-1,GB NSC TV Criciúma FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162789
+#EXTINF:-1,GB NSC TV Criciúma FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147412
+#EXTINF:-1,GB NSC TV Criciúma HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162771
+#EXTINF:-1,GB NSC TV Florianopolis FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162775
+#EXTINF:-1,GB NSC TV Florianopolis SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162777
+#EXTINF:-1,GB NSC TV Florianópolis FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147379
+#EXTINF:-1,GB NSC TV Florianópolis HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83500
+#EXTINF:-1,GB NSC TV Florianópolis HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147380
+#EXTINF:-1,GB NSC TV Joinville FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162719
+#EXTINF:-1,GB NSC TV Joinville FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147413
+#EXTINF:-1,GB NSC TV Joinville HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162718
+#EXTINF:-1,GB PB TV Paraíba HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147726
+#EXTINF:-1,GB PE Asa Branca FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152922
+#EXTINF:-1,GB PE Asa Branca HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151324
+#EXTINF:-1,GB RBS TV Caxias do Sul FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83438
+#EXTINF:-1,GB RBS TV Caxias do Sul HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83333
+#EXTINF:-1,GB RBS TV Caxias SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147414
+#EXTINF:-1,GB RBS TV Cruz Alta FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83579
+#EXTINF:-1,GB RBS TV Cruz Alta HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/165433
+#EXTINF:-1,GB RBS TV Passo Fundo FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162761
+#EXTINF:-1,GB RBS TV Passo Fundo HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162803
+#EXTINF:-1,GB RBS TV Passo Fundo SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/154680
+#EXTINF:-1,GB RBS TV Pelotas FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/86690
+#EXTINF:-1,GB RBS TV Pelotas HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/86691
+#EXTINF:-1,GB RBS TV Pelotas SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147415
+#EXTINF:-1,GB RBS TV Porto Alegre FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/154096
+#EXTINF:-1,GB RBS TV Porto Alegre FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147381
+#EXTINF:-1,GB RBS TV Porto Alegre HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83462
+#EXTINF:-1,GB RBS TV Porto Alegre HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147382
+#EXTINF:-1,GB RBS TV Porto Alegre SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83611
+#EXTINF:-1,GB RBS TV Santa Maria FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/287472
+#EXTINF:-1,GB RBS TV Santa Maria HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147416
+#EXTINF:-1,GB RBS TV Santa Maria SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/287471
+#EXTINF:-1,GB Rede Amazonica Porto Velho HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/163693
+#EXTINF:-1,GB Rede Amazônica Manaus FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162793
+#EXTINF:-1,GB Rede Amazônica Manaus HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83497
+#EXTINF:-1,GB Rede Amazônica Manaus SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147417
+#EXTINF:-1,GB Rede Amazônica Porto Velho FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152928
+#EXTINF:-1,GB Rede Amazônica Rio Branco FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152927
+#EXTINF:-1,GB Rede Amazônica Rio Branco HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/163694
+#EXTINF:-1,GB Rede Amazônica Rondônia FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162734
+#EXTINF:-1,GB Rede Amazônica Rondônia HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/165434
+#EXTINF:-1,GB Rede Boa Vista FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162554
+#EXTINF:-1,GB Rede Boa Vista HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162683
+#EXTINF:-1,GB Rede Macapá FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162723
+#EXTINF:-1,GB Rede Macapá HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162685
+#EXTINF:-1,GB RJ FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83502
+#EXTINF:-1,GB RJ FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147384
+#EXTINF:-1,GB RJ HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83459
+#EXTINF:-1,GB RJ HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147385
+#EXTINF:-1,GB RJ SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83568
+#EXTINF:-1,GB RPC Cascavel FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83330
+#EXTINF:-1,GB RPC Cascavel HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83298
+#EXTINF:-1,GB RPC Cascavel SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83289
+#EXTINF:-1,GB RPC Curitiba FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/154280
+#EXTINF:-1,GB RPC Curitiba FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147386
+#EXTINF:-1,GB RPC Curitiba HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83493
+#EXTINF:-1,GB RPC Curitiba SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147387
+#EXTINF:-1,GB RPC Foz do Iguaçu FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/86704
+#EXTINF:-1,GB RPC Foz do Iguaçu HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/86705
+#EXTINF:-1,GB RPC Foz do Iguaçu SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147418
+#EXTINF:-1,GB RPC Maringa FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162704
+#EXTINF:-1,GB RPC Maringa HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162703
+#EXTINF:-1,GB RPC Maringá FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147419
+#EXTINF:-1,GB RPC Ponta Grossa FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162698
+#EXTINF:-1,GB RPC Ponta Grossa FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147420
+#EXTINF:-1,GB RPC Ponta Grossa HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162699
+#EXTINF:-1,GB RPC TV Paranavai FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162722
+#EXTINF:-1,GB RPC TV Paranavai HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162721
+#EXTINF:-1,GB SP 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151058
+#EXTINF:-1,GB SP FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83510
+#EXTINF:-1,GB SP FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147388
+#EXTINF:-1,GB SP FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/155266
+#EXTINF:-1,GB SP HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83461
+#EXTINF:-1,GB SP HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147389
+#EXTINF:-1,GB SP SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83569
+#EXTINF:-1,GB TV Anhanguera Goiás FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162787
+#EXTINF:-1,GB TV Anhanguera Goiás FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147404
+#EXTINF:-1,GB TV Anhanguera Goiás HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83270
+#EXTINF:-1,GB TV Anhanguera Goiás HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147405
+#EXTINF:-1,GB TV Anhanguera Goiás SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83642
+#EXTINF:-1,GB TV Asa Branca Caruaru FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147421
+#EXTINF:-1,GB TV Cabo Branco FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/153908
+#EXTINF:-1,GB TV Cabo Branco HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162696
+#EXTINF:-1,GB TV Cabo Branco SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83590
+#EXTINF:-1,GB TV Centro America Cuiabá FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162751
+#EXTINF:-1,GB TV Centro America Cuiabá HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162752
+#EXTINF:-1,GB TV Centro America Cuiabá SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140943
+#EXTINF:-1,GB TV Centro América Cuiabá FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147368
+#EXTINF:-1,GB TV Centro América Cuiabá HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147369
+#EXTINF:-1,GB TV Clube Teresina FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147728
+#EXTINF:-1,GB TV Clube Teresina HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162749
+#EXTINF:-1,GB TV Clube Teresina SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83508
+#EXTINF:-1,GB TV Diario Mogi das Cruzes FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162745
+#EXTINF:-1,GB TV Diario Mogi das Cruzes HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83313
+#EXTINF:-1,GB TV Diario Mogi das Cruzes SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162746
+#EXTINF:-1,GB TV Fronteira Presidente Prudente FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162672
+#EXTINF:-1,GB TV Fronteira Presidente Prudente HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162673
+#EXTINF:-1,GB TV Gazeta Alagoas FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162691
+#EXTINF:-1,GB TV Gazeta Alagoas FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147422
+#EXTINF:-1,GB TV Gazeta Alagoas HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162692
+#EXTINF:-1,GB TV Gazeta Alagoas SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139482
+#EXTINF:-1,GB TV Gazeta ES Sul FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162687
+#EXTINF:-1,GB TV Gazeta ES Sul HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162688
+#EXTINF:-1,GB TV Gazeta ES Vitoria FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162684
+#EXTINF:-1,GB TV Gazeta ES Vitoria FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147401
+#EXTINF:-1,GB TV Gazeta ES Vitoria HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162686
+#EXTINF:-1,GB TV Gazeta ES Vitoria HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147408
+#EXTINF:-1,GB TV Gazeta Sul FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83310
+#EXTINF:-1,GB TV Gazeta Sul HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83303
+#EXTINF:-1,GB TV Gazeta Sul SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83214
+#EXTINF:-1,GB TV Integracao Juiz de Fora FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162681
+#EXTINF:-1,GB TV Integracao Juiz de Fora HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162682
+#EXTINF:-1,GB TV Integracao Juiz de Fora SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147424
+#EXTINF:-1,GB TV Integracao Uberaba FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83205
+#EXTINF:-1,GB TV Integracao Uberaba HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83401
+#EXTINF:-1,GB TV Integracao Uberaba SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83381
+#EXTINF:-1,GB TV Liberal Belem FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162744
+#EXTINF:-1,GB TV Liberal Belém FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147393
+#EXTINF:-1,GB TV Liberal Belém HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83506
+#EXTINF:-1,GB TV Liberal Belém HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147394
+#EXTINF:-1,GB TV Liberal Belém SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83649
+#EXTINF:-1,GB TV Mirante Cocais FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162720
+#EXTINF:-1,GB TV Mirante Cocais HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162783
+#EXTINF:-1,GB TV Mirante São Luís FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162742
+#EXTINF:-1,GB TV Mirante São Luís FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147397
+#EXTINF:-1,GB TV Mirante São Luís HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83498
+#EXTINF:-1,GB TV Mirante São Luís HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147398
+#EXTINF:-1,GB TV Mirante São Luís SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152923
+#EXTINF:-1,GB TV Morena MS FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162733
+#EXTINF:-1,GB TV Morena MS FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147399
+#EXTINF:-1,GB TV Morena MS HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83479
+#EXTINF:-1,GB TV Morena MS HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147400
+#EXTINF:-1,GB TV Rio Sul FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162782
+#EXTINF:-1,GB TV Rio Sul HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83499
+#EXTINF:-1,GB TV Rio Sul SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147425
+#EXTINF:-1,GB TV Santa Cruz FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147426
+#EXTINF:-1,GB TV Santa Cruz HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/284945
+#EXTINF:-1,GB TV Santa Cruz SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/284944
+#EXTINF:-1,GB TV Sergipe Aracaju FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83460
+#EXTINF:-1,GB TV Sergipe Aracaju HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147427
+#EXTINF:-1,GB TV Sergipe Aracaju SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83775
+#EXTINF:-1,GB TV Subae FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83546
+#EXTINF:-1,GB TV Subae HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162779
+#EXTINF:-1,GB TV Subae SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162750
+#EXTINF:-1,GB TV Tem Bauru FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162736
+#EXTINF:-1,GB TV Tem Bauru HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162737
+#EXTINF:-1,GB TV Tem Bauru SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83652
+#EXTINF:-1,GB TV Tem Itapetininga HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162676
+#EXTINF:-1,GB TV Tem Sorocaba FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152579
+#EXTINF:-1,GB TV Tem Sorocaba HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162466
+#EXTINF:-1,GB TV Tem Sorocaba HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147373
+#EXTINF:-1,GB TV Tem Sorocaba SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83654
+#EXTINF:-1,GB TV Tem Sorocaba SD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147372
+#EXTINF:-1,GB TV Tem São José do Rio Preto FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162678
+#EXTINF:-1,GB TV Tem São José do Rio Preto HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162679
+#EXTINF:-1,GB TV Tem São José do Rio Preto SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162680
+#EXTINF:-1,GB TV Tribuna Santos FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150151
+#EXTINF:-1,GB TV Tribuna Santos HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150150
+#EXTINF:-1,GB TV Tribuna Santos SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83655
+#EXTINF:-1,GB TV Vanguarda S.J. dos Campos FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140740
+#EXTINF:-1,GB TV Vanguarda S.J. dos Campos HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140741
+#EXTINF:-1,GB TV Vanguarda S.J. dos Campos SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83656
+#EXTINF:-1,GB TV Vanguarda Taubate FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169522
+#EXTINF:-1,GB TV Vanguarda Taubate HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169521
+#EXTINF:-1,GB TV Vanguarda Taubate SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169520
+#EXTINF:-1,GB TV Verdes Mares Ceará FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162741
+#EXTINF:-1,GB TV Verdes Mares Ceará FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147402
+#EXTINF:-1,GB TV Verdes Mares Ceará HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83507
+#EXTINF:-1,GB TV Verdes Mares Ceará HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147403
+#EXTINF:-1,GB TV Verdes Mares Ceará SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83657
+#EXTINF:-1,Globo Integração Divinópolis FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162717
+#EXTINF:-1,Globo Integração Divinópolis HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162675
+#EXTINF:-1,Globo Integração DIvinópolis SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151322
+#EXTINF:-1,Globo News FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139102
+#EXTINF:-1,Globo News FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147572
+#EXTINF:-1,Globo News FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83391
+#EXTINF:-1,Globo News HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83219
+#EXTINF:-1,Globo News HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147573
+#EXTINF:-1,Globo News SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83566
+#EXTINF:-1,Globo TV Integracao Uberlandia FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162694
+#EXTINF:-1,Globo TV Integracao Uberlandia HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162697
+#EXTINF:-1,Globo TV Integracao Uberlandia SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162760
+#EXTINF:-1,Globo TV Verdes Mares Cariri FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162743
+#EXTINF:-1,Globo TV Verdes Mares Cariri HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162711
+#EXTINF:-1,Globo TV Verdes Mares Cariri SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162702
+#EXTINF:-1,Gloob FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/126109
+#EXTINF:-1,Gloob FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147574
+#EXTINF:-1,Gloob FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83392
+#EXTINF:-1,Gloob HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83221
+#EXTINF:-1,Gloob HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147575
+#EXTINF:-1,Gloob SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83570
+#EXTINF:-1,Gloobinho FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/126110
+#EXTINF:-1,Gloobinho FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147576
+#EXTINF:-1,Gloobinho FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/148189
+#EXTINF:-1,Gloobinho HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83666
+#EXTINF:-1,Gloobinho HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147577
+#EXTINF:-1,Gloobinho SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162757
+#EXTINF:-1,GNT FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139111
+#EXTINF:-1,GNT FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147578
+#EXTINF:-1,GNT FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140812
+#EXTINF:-1,GNT HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83222
+#EXTINF:-1,GNT HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147579
+#EXTINF:-1,GNT SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83571
+#EXTINF:-1,Golf Channel FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/146910
+#EXTINF:-1,Golf Channel HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83618
+#EXTINF:-1,Gusttavo Lima [Buteco em BH]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136189
+#EXTINF:-1,Gusttavo Lima [Buteco Em Casa 1]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136192
+#EXTINF:-1,Gusttavo Lima [Embaixador no Agronegócio]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136188
+#EXTINF:-1,Gusttavo Lima [Especial São João]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136191
+#EXTINF:-1,Gusttavo Lima [Festa do Peão Barretos]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136190
+#EXTINF:-1,Gusttavo Lima [YouTube Music]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136187
+#EXTINF:-1,Gusttavo Lima, Daniel e Leonardo [Live Buteco em Casa 3]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133628
+#EXTINF:-1,Harry Potter 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/123176
+#EXTINF:-1,Harry Potter 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/123175
+#EXTINF:-1,HBO 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151050
+#EXTINF:-1,HBO Familly FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83350
+#EXTINF:-1,HBO Family FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140710
+#EXTINF:-1,HBO Family FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147584
+#EXTINF:-1,HBO Family HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83224
+#EXTINF:-1,HBO Family HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147585
+#EXTINF:-1,HBO Family SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83573
+#EXTINF:-1,HBO Max 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/126108
+#EXTINF:-1,HBO Max 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147521
+#EXTINF:-1,HBO Max 3
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152559
+#EXTINF:-1,HBO Max 4
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83801
+#EXTINF:-1,HBO Max 5
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162671
+#EXTINF:-1,HBO Max 6
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83448
+#EXTINF:-1,HBO Mundi FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140736
+#EXTINF:-1,HBO Mundi FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147588
+#EXTINF:-1,HBO Mundi FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83397
+#EXTINF:-1,HBO Mundi HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83232
+#EXTINF:-1,HBO Mundi HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147589
+#EXTINF:-1,HBO Mundi SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83582
+#EXTINF:-1,HBO Pop FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140737
+#EXTINF:-1,HBO Pop FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147592
+#EXTINF:-1,HBO Pop FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83356
+#EXTINF:-1,HBO Pop HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83234
+#EXTINF:-1,HBO Pop HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147593
+#EXTINF:-1,HBO Pop SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140948
+#EXTINF:-1,HBO Signature FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140735
+#EXTINF:-1,HBO Signature FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147594
+#EXTINF:-1,HBO Signature FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83353
+#EXTINF:-1,HBO Signature HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83227
+#EXTINF:-1,HBO Signature HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147595
+#EXTINF:-1,HBO Signature SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83575
+#EXTINF:-1,HBO Xtreme 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151055
+#EXTINF:-1,HBO Xtreme FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140732
+#EXTINF:-1,HBO Xtreme FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147596
+#EXTINF:-1,HBO Xtreme FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83398
+#EXTINF:-1,HBO Xtreme HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83233
+#EXTINF:-1,HBO Xtreme HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147597
+#EXTINF:-1,HBO Xtreme SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140947
+#EXTINF:-1,HBO+ FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140734
+#EXTINF:-1,HBO+ FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147590
+#EXTINF:-1,HBO+ FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83352
+#EXTINF:-1,HBO+ HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83226
+#EXTINF:-1,HBO+ HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147591
+#EXTINF:-1,HBO+ SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83574
+#EXTINF:-1,HBO1 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140708
+#EXTINF:-1,HBO1 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147586
+#EXTINF:-1,HBO1 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83351
+#EXTINF:-1,HBO1 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83225
+#EXTINF:-1,HBO1 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147587
+#EXTINF:-1,HBO1 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83572
+#EXTINF:-1,HBO2 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140733
+#EXTINF:-1,HBO2 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147582
+#EXTINF:-1,HBO2 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83354
+#EXTINF:-1,HBO2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83223
+#EXTINF:-1,HBO2 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147583
+#EXTINF:-1,HBO2 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83576
+#EXTINF:-1,Henrique e Juliano [Live Liberdade Provisória]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133623
+#EXTINF:-1,HGTV FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139110
+#EXTINF:-1,HGTV FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147598
+#EXTINF:-1,HGTV FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83377
+#EXTINF:-1,HGTV HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83197
+#EXTINF:-1,HGTV HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147599
+#EXTINF:-1,HGTV SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162786
+#EXTINF:-1,History FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83819
+#EXTINF:-1,History FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147711
+#EXTINF:-1,History FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83393
+#EXTINF:-1,History HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83229
+#EXTINF:-1,History HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147712
+#EXTINF:-1,History SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83663
+#EXTINF:-1,History2 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/87314
+#EXTINF:-1,History2 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147580
+#EXTINF:-1,History2 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83394
+#EXTINF:-1,History2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83228
+#EXTINF:-1,History2 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147581
+#EXTINF:-1,History2 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83577
+#EXTINF:-1,Ideal TV HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83359
+#EXTINF:-1,Igreja Mundial Poder de Deus HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169524
+#EXTINF:-1,Jogos Mortais 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/123177
+#EXTINF:-1,Jogos Mortais 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/123178
+#EXTINF:-1,Jogos Vorazes - Quadrilogia
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/123179
+#EXTINF:-1,John Wick - Trilogia
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133418
+#EXTINF:-1,Jorge e Mateus [Na Praia Hotel]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136193
+#EXTINF:-1,Jorge e Mateus [Pelo Amor de Deus]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136194
+#EXTINF:-1,Jorge e Mateus [Sunset]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136195
+#EXTINF:-1,Jovem Pan News FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152567
+#EXTINF:-1,Jovem Pan News FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/183592
+#EXTINF:-1,Jovem Pan News FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147559
+#EXTINF:-1,Jovem Pan News HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/165441
+#EXTINF:-1,Jovem Pan News HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/183591
+#EXTINF:-1,Jovem Pan News SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147560
+#EXTINF:-1,Leonardo e Eduardo Costa [Cabaré]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136589
+#EXTINF:-1,Leonardo e Luiza e Maurílio [Aqui em Uberlândia]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136592
+#EXTINF:-1,Leonardo e Zé Felipe [Pai e Filho]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136590
+#EXTINF:-1,Leonardo [Canto, Bebo e Choro]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136591
+#EXTINF:-1,Lifetime FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/87309
+#EXTINF:-1,Lifetime FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147602
+#EXTINF:-1,Lifetime FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83395
+#EXTINF:-1,Lifetime HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83231
+#EXTINF:-1,Lifetime HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147603
+#EXTINF:-1,Lifetime SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83580
+#EXTINF:-1,Like FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147488
+#EXTINF:-1,Like HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147486
+#EXTINF:-1,Maiara e Maraisa [Aqui em Casa 1]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136201
+#EXTINF:-1,Maiara e Maraisa [Aqui em Casa 2]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136202
+#EXTINF:-1,Maiara e Maraisa [Aqui na Fazenda]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136198
+#EXTINF:-1,Maiara e Maraisa [Drive-In Na Terra]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136200
+#EXTINF:-1,Maiara e Maraisa [Fun Live]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136199
+#EXTINF:-1,Maiara e Maraisa [Workshow]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136197
+#EXTINF:-1,Marilia Mendonça [Lado B]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136206
+#EXTINF:-1,Marilia Mendonça [Live Local]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136205
+#EXTINF:-1,Marilia Mendonça [Todos os Cantos]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136204
+#EXTINF:-1,Marilia Mendonça [Workshow]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136203
+#EXTINF:-1,Marvel 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83171
+#EXTINF:-1,Marvel 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83184
+#EXTINF:-1,Marvel 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/87696
+#EXTINF:-1,Marvel 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/89551
+#EXTINF:-1,Maze Runner - Trilogia
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/123180
+#EXTINF:-1,MegaPix 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151045
+#EXTINF:-1,MegaPix FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136800
+#EXTINF:-1,MegaPix FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147607
+#EXTINF:-1,MegaPix FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83399
+#EXTINF:-1,MegaPix HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83235
+#EXTINF:-1,MegaPix HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147608
+#EXTINF:-1,MegaPix SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83585
+#EXTINF:-1,MLB Extra Innings 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164627
+#EXTINF:-1,MLB Extra Innings 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164628
+#EXTINF:-1,MLB Extra Innings 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164629
+#EXTINF:-1,MLB Extra Innings 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164630
+#EXTINF:-1,MLB Extra Innings 05
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164631
+#EXTINF:-1,MLB Extra Innings 06
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164632
+#EXTINF:-1,MLB Extra Innings 07
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164633
+#EXTINF:-1,MLB Extra Innings 08
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164634
+#EXTINF:-1,MLB Extra Innings 09
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164635
+#EXTINF:-1,MLB Extra Innings 10
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164636
+#EXTINF:-1,MLB Strike Zone
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164626
+#EXTINF:-1,Modo Viagem FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147364
+#EXTINF:-1,Modo Viagem FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147605
+#EXTINF:-1,Modo Viagem FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83396
+#EXTINF:-1,Modo Viagem HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83220
+#EXTINF:-1,Modo Viagem HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147606
+#EXTINF:-1,Modo Viagem SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83581
+#EXTINF:-1,MR. Olympia PPV
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/163038
+#EXTINF:-1,MTV 00s FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162739
+#EXTINF:-1,MTV 00s FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147601
+#EXTINF:-1,MTV 00s FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83367
+#EXTINF:-1,MTV 00s HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83275
+#EXTINF:-1,MTV 00s HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147600
+#EXTINF:-1,MTV 00s SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162740
+#EXTINF:-1,MTV FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139103
+#EXTINF:-1,MTV FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147609
+#EXTINF:-1,MTV FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83357
+#EXTINF:-1,MTV HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83236
+#EXTINF:-1,MTV HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147610
+#EXTINF:-1,MTV Live FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162730
+#EXTINF:-1,MTV Live FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147742
+#EXTINF:-1,MTV Live FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169519
+#EXTINF:-1,MTV Live HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162731
+#EXTINF:-1,MTV Live HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147743
+#EXTINF:-1,MTV Live SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162732
+#EXTINF:-1,MTV SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83586
+#EXTINF:-1,Multishow 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151043
+#EXTINF:-1,Multishow FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139109
+#EXTINF:-1,Multishow FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147611
+#EXTINF:-1,Multishow FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83358
+#EXTINF:-1,Multishow HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83237
+#EXTINF:-1,Multishow HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147612
+#EXTINF:-1,Multishow SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83587
+#EXTINF:-1,Music Box Brasil FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147613
+#EXTINF:-1,Music Box Brasil HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147614
+#EXTINF:-1,Music Box Brazil FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162735
+#EXTINF:-1,Music Box Brazil HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83589
+#EXTINF:-1,Music Box Brazil SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83588
+#EXTINF:-1,National Geographic 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151047
+#EXTINF:-1,National Geographic FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/87313
+#EXTINF:-1,National Geographic FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147615
+#EXTINF:-1,National Geographic FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83400
+#EXTINF:-1,National Geographic HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83238
+#EXTINF:-1,National Geographic HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147616
+#EXTINF:-1,National Geographic SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83592
+#EXTINF:-1,NBA League Pass 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164595
+#EXTINF:-1,NBA League Pass 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164596
+#EXTINF:-1,NBA League Pass 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164597
+#EXTINF:-1,NBA League Pass 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164598
+#EXTINF:-1,NBA League Pass 05
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164599
+#EXTINF:-1,NBA League Pass 06
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164600
+#EXTINF:-1,NBA League Pass 07
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164601
+#EXTINF:-1,NBA League Pass 08
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164602
+#EXTINF:-1,NBA League Pass 09
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164603
+#EXTINF:-1,NBA League Pass 10
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164604
+#EXTINF:-1,NBA League Pass 11
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164605
+#EXTINF:-1,NBA League Pass 12
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164606
+#EXTINF:-1,NBA League Pass 13
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164607
+#EXTINF:-1,NBA League Pass 14
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164608
+#EXTINF:-1,NBA League Pass 15
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164609
+#EXTINF:-1,NBA TV
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162970
+#EXTINF:-1,NFL 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140816
+#EXTINF:-1,NFL 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140818
+#EXTINF:-1,NFL 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140819
+#EXTINF:-1,NFL 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140820
+#EXTINF:-1,NFL 05
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140821
+#EXTINF:-1,NFL 06
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140823
+#EXTINF:-1,NFL Network
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83619
+#EXTINF:-1,NFL Redzone
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140443
+#EXTINF:-1,NHK Japão FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/183761
+#EXTINF:-1,Nick Jr FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/126113
+#EXTINF:-1,Nick Jr FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147623
+#EXTINF:-1,Nick Jr FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83403
+#EXTINF:-1,Nick Jr HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83242
+#EXTINF:-1,Nick Jr HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147624
+#EXTINF:-1,Nick Jr SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83594
+#EXTINF:-1,Nickelodeon FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/126112
+#EXTINF:-1,Nickelodeon FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147621
+#EXTINF:-1,Nickelodeon FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83402
+#EXTINF:-1,Nickelodeon HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83241
+#EXTINF:-1,Nickelodeon HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147622
+#EXTINF:-1,Nickelodeon SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83595
+#EXTINF:-1,Nosso Futebol 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/81094
+#EXTINF:-1,Nosso Futebol 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83215
+#EXTINF:-1,Nosso Futebol 3
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83239
+#EXTINF:-1,Nosso Futebol 4
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83297
+#EXTINF:-1,O Hobbit - Trilogia
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/123181
+#EXTINF:-1,O Senhor dos Aneis - Trilogia
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/123182
+#EXTINF:-1,OFF FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139108
+#EXTINF:-1,OFF FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147625
+#EXTINF:-1,OFF FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83404
+#EXTINF:-1,OFF HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83243
+#EXTINF:-1,OFF HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147626
+#EXTINF:-1,OFF SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83596
+#EXTINF:-1,OneFootball 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139472
+#EXTINF:-1,Paramount Channel FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136802
+#EXTINF:-1,Paramount Channel FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147627
+#EXTINF:-1,Paramount Channel FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83360
+#EXTINF:-1,Paramount Channel HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83244
+#EXTINF:-1,Paramount Channel HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147628
+#EXTINF:-1,Paramount Channel SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83597
+#EXTINF:-1,Polishop FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147632
+#EXTINF:-1,Polishop HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164438
+#EXTINF:-1,Premiere 1 Clubes 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151037
+#EXTINF:-1,Premiere 1 Clubes FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83813
+#EXTINF:-1,Premiere 1 Clubes FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147633
+#EXTINF:-1,Premiere 1 Clubes FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83405
+#EXTINF:-1,Premiere 1 Clubes HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83251
+#EXTINF:-1,Premiere 1 Clubes HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147634
+#EXTINF:-1,Premiere 1 Clubes SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83601
+#EXTINF:-1,Premiere 2 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/87323
+#EXTINF:-1,Premiere 2 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147635
+#EXTINF:-1,Premiere 2 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83406
+#EXTINF:-1,Premiere 2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83245
+#EXTINF:-1,Premiere 2 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147636
+#EXTINF:-1,Premiere 2 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83602
+#EXTINF:-1,Premiere 3 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/87321
+#EXTINF:-1,Premiere 3 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147637
+#EXTINF:-1,Premiere 3 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83407
+#EXTINF:-1,Premiere 3 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83246
+#EXTINF:-1,Premiere 3 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147638
+#EXTINF:-1,Premiere 3 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83603
+#EXTINF:-1,Premiere 4 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/87320
+#EXTINF:-1,Premiere 4 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147639
+#EXTINF:-1,Premiere 4 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83408
+#EXTINF:-1,Premiere 4 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83247
+#EXTINF:-1,Premiere 4 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147640
+#EXTINF:-1,Premiere 4 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83604
+#EXTINF:-1,Premiere 5 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152926
+#EXTINF:-1,Premiere 5 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147641
+#EXTINF:-1,Premiere 5 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83409
+#EXTINF:-1,Premiere 5 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83248
+#EXTINF:-1,Premiere 5 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147642
+#EXTINF:-1,Premiere 5 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83605
+#EXTINF:-1,Premiere 6 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/87319
+#EXTINF:-1,Premiere 6 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147643
+#EXTINF:-1,Premiere 6 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83410
+#EXTINF:-1,Premiere 6 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83249
+#EXTINF:-1,Premiere 6 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147644
+#EXTINF:-1,Premiere 6 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83606
+#EXTINF:-1,Premiere 7 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/87318
+#EXTINF:-1,Premiere 7 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147645
+#EXTINF:-1,Premiere 7 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83411
+#EXTINF:-1,Premiere 7 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83250
+#EXTINF:-1,Premiere 7 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147646
+#EXTINF:-1,Premiere 7 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83607
+#EXTINF:-1,Prime Box Brasil FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147647
+#EXTINF:-1,Prime Box Brasil HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147648
+#EXTINF:-1,Prime Box Brazil FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162774
+#EXTINF:-1,Prime Box Brazil HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162776
+#EXTINF:-1,Prime Box Brazil SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83610
+#EXTINF:-1,Prime Esportes 1 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83449
+#EXTINF:-1,Prime Esportes 1 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83795
+#EXTINF:-1,Prime Esportes 1 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83334
+#EXTINF:-1,Prime Esportes 2 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83348
+#EXTINF:-1,Prime Esportes 2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83773
+#EXTINF:-1,Prime Esportes 2 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83347
+#EXTINF:-1,Prime Esportes 3 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169534
+#EXTINF:-1,Prime Esportes 3 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83790
+#EXTINF:-1,Prime Esportes 3 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83452
+#EXTINF:-1,Raça Negra e Alexandre Pires [Live Gigantes do Samba]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/134985
+#EXTINF:-1,Raça Negra e Amigos em Casa [Live 21-04-2020]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/134986
+#EXTINF:-1,RBI FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147649
+#EXTINF:-1,RBI HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/127908
+#EXTINF:-1,Record BA Itapoan FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162665
+#EXTINF:-1,Record BA Itapoan HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/163692
+#EXTINF:-1,Record BA Itapoan HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147650
+#EXTINF:-1,Record BA Itapoan SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169528
+#EXTINF:-1,Record Belém FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162769
+#EXTINF:-1,Record Belém HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83469
+#EXTINF:-1,Record Belém SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162768
+#EXTINF:-1,Record Brasília FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/165428
+#EXTINF:-1,Record Brasília HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/157301
+#EXTINF:-1,Record Brasília HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169518
+#EXTINF:-1,Record Brasília SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162765
+#EXTINF:-1,Record Cabralia FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147669
+#EXTINF:-1,Record Cabralia HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164593
+#EXTINF:-1,Record Campinas FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/157300
+#EXTINF:-1,Record Campinas HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162764
+#EXTINF:-1,Record Campinas SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/157298
+#EXTINF:-1,Record FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147655
+#EXTINF:-1,Record Goias FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162766
+#EXTINF:-1,Record Goias HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83252
+#EXTINF:-1,Record Goias HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147656
+#EXTINF:-1,Record Goias SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162767
+#EXTINF:-1,Record HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147667
+#EXTINF:-1,Record Interior SP FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162669
+#EXTINF:-1,Record Interior SP HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162670
+#EXTINF:-1,Record Litoral Vale do Parnaíba FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162668
+#EXTINF:-1,Record Litoral Vale do Parnaíba HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162667
+#EXTINF:-1,Record Manaus HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83465
+#EXTINF:-1,Record Manaus SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147668
+#EXTINF:-1,Record Minas FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147652
+#EXTINF:-1,Record Minas HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169517
+#EXTINF:-1,Record Minas HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147660
+#EXTINF:-1,Record Minas SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152650
+#EXTINF:-1,Record News FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139116
+#EXTINF:-1,Record News HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83309
+#EXTINF:-1,Record News SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83612
+#EXTINF:-1,Record Paranaíba de Uberlândia FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/247611
+#EXTINF:-1,Record Paranaíba de Uberlândia HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162762
+#EXTINF:-1,Record RIC HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83796
+#EXTINF:-1,Record Rio Preto FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83678
+#EXTINF:-1,Record Rio Preto HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162666
+#EXTINF:-1,Record RJ FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162969
+#EXTINF:-1,Record RJ HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/157157
+#EXTINF:-1,Record RJ HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147664
+#EXTINF:-1,Record RJ SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/163031
+#EXTINF:-1,Record RS FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/165435
+#EXTINF:-1,Record RS HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147665
+#EXTINF:-1,Record RS SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162770
+#EXTINF:-1,Record SIC TV Rondônia FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83696
+#EXTINF:-1,Record SIC TV Rondônia HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162763
+#EXTINF:-1,Record SicTV RO HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/163608
+#EXTINF:-1,Record SP 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151036
+#EXTINF:-1,Record SP FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162663
+#EXTINF:-1,Record SP FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83430
+#EXTINF:-1,Record SP HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83468
+#EXTINF:-1,Record SP HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147658
+#EXTINF:-1,Record SP SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83613
+#EXTINF:-1,Record SP SD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147657
+#EXTINF:-1,Record TV Cidade Ceará FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/288606
+#EXTINF:-1,Record TV MT HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83496
+#EXTINF:-1,Record TV Vila Real FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83804
+#EXTINF:-1,Record TV Vila Real HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83520
+#EXTINF:-1,Red Bull TV HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/70206
+#EXTINF:-1,Rede Boas Novas
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/163040
+#EXTINF:-1,Rede Brasil de Televisão SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/165442
+#EXTINF:-1,Rede Brasil HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/163041
+#EXTINF:-1,Rede Família FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162695
+#EXTINF:-1,Rede Gospel FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/184543
+#EXTINF:-1,Rede Gospel HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/301489
+#EXTINF:-1,Rede Gospel SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/301490
+#EXTINF:-1,Rede Super FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162677
+#EXTINF:-1,Rede Super HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162555
+#EXTINF:-1,Rede Super SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/289013
+#EXTINF:-1,Rede Século 21 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152925
+#EXTINF:-1,Rede TV 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151051
+#EXTINF:-1,Rede TV Brasília FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140896
+#EXTINF:-1,Rede TV Brasília HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140897
+#EXTINF:-1,Rede TV FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140652
+#EXTINF:-1,Rede TV FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147673
+#EXTINF:-1,Rede TV FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83413
+#EXTINF:-1,Rede TV HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83253
+#EXTINF:-1,Rede TV HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147674
+#EXTINF:-1,Rede TV SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83616
+#EXTINF:-1,Rede Vida FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162724
+#EXTINF:-1,Rede Vida FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140898
+#EXTINF:-1,Rede Vida FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/163280
+#EXTINF:-1,Rede Vida HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162725
+#EXTINF:-1,Rede Vida HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83617
+#EXTINF:-1,Rede Vida SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162726
+#EXTINF:-1,RIT FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147675
+#EXTINF:-1,Sabor e Arte FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169527
+#EXTINF:-1,Sabor e Arte HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147752
+#EXTINF:-1,Santuário de Fátima FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/80635
+#EXTINF:-1,SBT 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169533
+#EXTINF:-1,SBT Amazonas FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/289012
+#EXTINF:-1,SBT Brasília FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/165431
+#EXTINF:-1,SBT Brasília HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83474
+#EXTINF:-1,SBT FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147676
+#EXTINF:-1,SBT HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147677
+#EXTINF:-1,SBT Interior HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169525
+#EXTINF:-1,SBT Itapoan FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162772
+#EXTINF:-1,SBT Itapoan HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162781
+#EXTINF:-1,SBT Para HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/289001
+#EXTINF:-1,SBT Piaui HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/289011
+#EXTINF:-1,SBT Rede Massa HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162848
+#EXTINF:-1,SBT Riberão Preto HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/289004
+#EXTINF:-1,SBT RJ FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83517
+#EXTINF:-1,SBT RJ HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83513
+#EXTINF:-1,SBT RJ SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/165438
+#EXTINF:-1,SBT RN HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/289002
+#EXTINF:-1,SBT RS FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162797
+#EXTINF:-1,SBT RS HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162798
+#EXTINF:-1,SBT RS SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/163268
+#EXTINF:-1,SBT SCC HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/289003
+#EXTINF:-1,SBT Serra Dourada HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/289006
+#EXTINF:-1,SBT SP 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151040
+#EXTINF:-1,SBT SP FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140653
+#EXTINF:-1,SBT SP HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83476
+#EXTINF:-1,SBT SP SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169523
+#EXTINF:-1,SBT São Luis Maranhão HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/289007
+#EXTINF:-1,SBT TV Alterosa MG FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83495
+#EXTINF:-1,SBT TV Alterosa MG HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/142101
+#EXTINF:-1,SBT TV Alterosa MG SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/283909
+#EXTINF:-1,SBT TV Aratu Bahia HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/289008
+#EXTINF:-1,SBT TV Difusora Caxias HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/289009
+#EXTINF:-1,SBT TV Jangadeiro Ceará FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/289005
+#EXTINF:-1,SBT TV Jornal Recife HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/289010
+#EXTINF:-1,Simone e Simaria [Live das Coleguinhas 1]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136208
+#EXTINF:-1,Simone e Simaria [Live das Coleguinhas 2 Libras]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136210
+#EXTINF:-1,Simone e Simaria [Live das Coleguinhas 2]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136209
+#EXTINF:-1,Simone e Simaria [Pocket Show]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136207
+#EXTINF:-1,Simone e Simaria [Yoki, Live Junina]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136211
+#EXTINF:-1,Space 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151060
+#EXTINF:-1,Space FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136803
+#EXTINF:-1,Space FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147682
+#EXTINF:-1,Space FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83361
+#EXTINF:-1,Space HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83254
+#EXTINF:-1,Space HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147683
+#EXTINF:-1,Space SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83622
+#EXTINF:-1,SporTV 1 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151042
+#EXTINF:-1,SporTV 1 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83814
+#EXTINF:-1,SporTV 1 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147688
+#EXTINF:-1,SporTV 1 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83416
+#EXTINF:-1,SporTV 1 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83257
+#EXTINF:-1,SporTV 1 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147689
+#EXTINF:-1,SporTV 1 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83623
+#EXTINF:-1,SporTV 2 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83815
+#EXTINF:-1,SporTV 2 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147684
+#EXTINF:-1,SporTV 2 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83414
+#EXTINF:-1,SporTV 2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83255
+#EXTINF:-1,SporTV 2 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147685
+#EXTINF:-1,SporTV 2 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83624
+#EXTINF:-1,SporTV 3 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83816
+#EXTINF:-1,SporTV 3 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147686
+#EXTINF:-1,SporTV 3 FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83415
+#EXTINF:-1,SporTV 3 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83256
+#EXTINF:-1,SporTV 3 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147687
+#EXTINF:-1,SporTV 3 SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83625
+#EXTINF:-1,Star Channel 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151057
+#EXTINF:-1,Star Channel FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136793
+#EXTINF:-1,Star Channel FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147555
+#EXTINF:-1,Star Channel FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83346
+#EXTINF:-1,Star Channel HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83212
+#EXTINF:-1,Star Channel HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147556
+#EXTINF:-1,Star Channel SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83558
+#EXTINF:-1,Star+ 1 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147522
+#EXTINF:-1,Star+ 2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147523
+#EXTINF:-1,Star+ 3 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147524
+#EXTINF:-1,Star+ 4 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169497
+#EXTINF:-1,Star+ 5 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169500
+#EXTINF:-1,Star+ 6 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169501
+#EXTINF:-1,Star+ 7 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169502
+#EXTINF:-1,Star+ 8 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169503
+#EXTINF:-1,Studio Universal FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136804
+#EXTINF:-1,Studio Universal FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147690
+#EXTINF:-1,Studio Universal FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83417
+#EXTINF:-1,Studio Universal HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83258
+#EXTINF:-1,Studio Universal HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147691
+#EXTINF:-1,Studio Universal SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83626
+#EXTINF:-1,SyFy FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139106
+#EXTINF:-1,SyFy FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147666
+#EXTINF:-1,SyFy FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83418
+#EXTINF:-1,SyFy HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83259
+#EXTINF:-1,SyFy HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147653
+#EXTINF:-1,SyFy SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83627
+#EXTINF:-1,Só Pra Contrariar [Especial 30 Anos]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136184
+#EXTINF:-1,Só Pra Contrariar [Session 2]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136183
+#EXTINF:-1,TCM FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/163289
+#EXTINF:-1,TCM HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147709
+#EXTINF:-1,TCM Play FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133315
+#EXTINF:-1,TCM SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147708
+#EXTINF:-1,Telecine Action FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83824
+#EXTINF:-1,Telecine Action FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147696
+#EXTINF:-1,Telecine Action FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83420
+#EXTINF:-1,Telecine Action HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83261
+#EXTINF:-1,Telecine Action HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147697
+#EXTINF:-1,Telecine Action SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83630
+#EXTINF:-1,Telecine Cult FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83828
+#EXTINF:-1,Telecine Cult FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147698
+#EXTINF:-1,Telecine Cult FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83362
+#EXTINF:-1,Telecine Cult HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83262
+#EXTINF:-1,Telecine Cult HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147699
+#EXTINF:-1,Telecine Cult SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83631
+#EXTINF:-1,Telecine Fun FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83827
+#EXTINF:-1,Telecine Fun FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147700
+#EXTINF:-1,Telecine Fun FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83363
+#EXTINF:-1,Telecine Fun HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83263
+#EXTINF:-1,Telecine Fun HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147701
+#EXTINF:-1,Telecine Fun SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83632
+#EXTINF:-1,Telecine Pipoca 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151056
+#EXTINF:-1,Telecine Pipoca FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83826
+#EXTINF:-1,Telecine Pipoca FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147702
+#EXTINF:-1,Telecine Pipoca FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83421
+#EXTINF:-1,Telecine Pipoca HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83264
+#EXTINF:-1,Telecine Pipoca HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147703
+#EXTINF:-1,Telecine Pipoca SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83633
+#EXTINF:-1,Telecine Premium 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151049
+#EXTINF:-1,Telecine Premium FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83823
+#EXTINF:-1,Telecine Premium FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147704
+#EXTINF:-1,Telecine Premium FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83364
+#EXTINF:-1,Telecine Premium HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83265
+#EXTINF:-1,Telecine Premium HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147705
+#EXTINF:-1,Telecine Premium SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83634
+#EXTINF:-1,Telecine Touch FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83825
+#EXTINF:-1,Telecine Touch FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147706
+#EXTINF:-1,Telecine Touch FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83365
+#EXTINF:-1,Telecine Touch HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83266
+#EXTINF:-1,Telecine Touch HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147707
+#EXTINF:-1,Telecine Touch SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83635
+#EXTINF:-1,Terra Viva HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162693
+#EXTINF:-1,Terra Viva SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147710
+#EXTINF:-1,TLC FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/87317
+#EXTINF:-1,TLC FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147713
+#EXTINF:-1,TLC FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83422
+#EXTINF:-1,TLC HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83267
+#EXTINF:-1,TLC HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147714
+#EXTINF:-1,TLC SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83637
+#EXTINF:-1,TNT 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151053
+#EXTINF:-1,TNT FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83822
+#EXTINF:-1,TNT FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147715
+#EXTINF:-1,TNT FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83423
+#EXTINF:-1,TNT HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83268
+#EXTINF:-1,TNT HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147716
+#EXTINF:-1,TNT Novelas FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/299474
+#EXTINF:-1,TNT Novelas FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83260
+#EXTINF:-1,TNT Novelas HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/299475
+#EXTINF:-1,TNT Novelas HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83628
+#EXTINF:-1,TNT Novelas SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/299476
+#EXTINF:-1,TNT SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83638
+#EXTINF:-1,TNT Series 4K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151054
+#EXTINF:-1,TNT Series FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136806
+#EXTINF:-1,TNT Series FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147717
+#EXTINF:-1,TNT Series FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83366
+#EXTINF:-1,TNT Series HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83269
+#EXTINF:-1,TNT Series HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147718
+#EXTINF:-1,TNT Series SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83639
+#EXTINF:-1,Tooncast FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149345
+#EXTINF:-1,Tooncast HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147719
+#EXTINF:-1,Tooncast SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147720
+#EXTINF:-1,Trace Brazuca FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162662
+#EXTINF:-1,Trace Brazuca FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147485
+#EXTINF:-1,Trace Brazuca FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/163283
+#EXTINF:-1,Trace Brazuca HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147999
+#EXTINF:-1,Trace Brazuca HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147470
+#EXTINF:-1,Trace Brazuca SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162660
+#EXTINF:-1,Travel Box Brasil FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147366
+#EXTINF:-1,Travel Box Brasil FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147721
+#EXTINF:-1,Travel Box Brasil HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150168
+#EXTINF:-1,Travel Box Brasil HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147456
+#EXTINF:-1,Travel Box Brazil FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/163284
+#EXTINF:-1,Travel Box Brazil SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162758
+#EXTINF:-1,Trio Parada Dura e Cesar Menotti [Na Fazenda do Ratinho]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136594
+#EXTINF:-1,Trio Parada Dura [A Última Live - Especial Parrerito]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136595
+#EXTINF:-1,TruTV FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147722
+#EXTINF:-1,TruTV HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147723
+#EXTINF:-1,TruTV SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169529
+#EXTINF:-1,TV A Crítica HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/287470
+#EXTINF:-1,TV Aparecida FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162756
+#EXTINF:-1,TV Aparecida FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/165429
+#EXTINF:-1,TV Aparecida FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83698
+#EXTINF:-1,TV Aparecida HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162755
+#EXTINF:-1,TV Aparecida HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147467
+#EXTINF:-1,TV Aparecida SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83643
+#EXTINF:-1,TV Atalaia HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83780
+#EXTINF:-1,TV Brasil FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162753
+#EXTINF:-1,TV Brasil FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147724
+#EXTINF:-1,TV Brasil HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/132026
+#EXTINF:-1,TV Brasil HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147725
+#EXTINF:-1,TV Brasil SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162754
+#EXTINF:-1,TV Camara FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147727
+#EXTINF:-1,TV Candides FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83614
+#EXTINF:-1,TV Candides HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83699
+#EXTINF:-1,TV Candides SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162560
+#EXTINF:-1,TV Cultura FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162747
+#EXTINF:-1,TV Cultura FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147498
+#EXTINF:-1,TV Cultura FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164572
+#EXTINF:-1,TV Cultura HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162748
+#EXTINF:-1,TV Cultura HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151038
+#EXTINF:-1,TV Cultura SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83647
+#EXTINF:-1,TV Diario CE FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147730
+#EXTINF:-1,TV Diario CE HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147731
+#EXTINF:-1,TV Diário do Sertão HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/141025
+#EXTINF:-1,TV Escola FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147732
+#EXTINF:-1,TV Escola SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/165443
+#EXTINF:-1,TV Evangelizar SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83673
+#EXTINF:-1,TV Gazeta FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151052
+#EXTINF:-1,TV Gazeta FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151034
+#EXTINF:-1,TV Gazeta HD SP
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83454
+#EXTINF:-1,TV Gazeta HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164697
+#EXTINF:-1,TV Justiça HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/183762
+#EXTINF:-1,TV Novo Tempo FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162780
+#EXTINF:-1,TV Novo Tempo FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147734
+#EXTINF:-1,TV Novo Tempo HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83311
+#EXTINF:-1,TV Novo Tempo HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/7009
+#EXTINF:-1,TV Novo Tempo SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83665
+#EXTINF:-1,TV NSports 1 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83716
+#EXTINF:-1,TV NSports 2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83717
+#EXTINF:-1,TV NSports 3 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169539
+#EXTINF:-1,TV NSports 4 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/272
+#EXTINF:-1,TV Pai Eterno FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162727
+#EXTINF:-1,TV Pai Eterno FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147735
+#EXTINF:-1,TV Pai Eterno FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/163290
+#EXTINF:-1,TV Pai Eterno HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162728
+#EXTINF:-1,TV Pai Eterno HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83473
+#EXTINF:-1,TV Pai Eterno SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162729
+#EXTINF:-1,TV Ra Tim Bum FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162738
+#EXTINF:-1,TV Ra Tim Bum FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147736
+#EXTINF:-1,TV Ra Tim Bum FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/163278
+#EXTINF:-1,TV Ra Tim Bum HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83272
+#EXTINF:-1,TV Ra Tim Bum HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147737
+#EXTINF:-1,TV Ra Tim Bum SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83650
+#EXTINF:-1,TV Senado HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149353
+#EXTINF:-1,TV Senado SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/195183
+#EXTINF:-1,TV Senado SD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147738
+#EXTINF:-1,TVE Bahia FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/284491
+#EXTINF:-1,TVE Bahia HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/283910
+#EXTINF:-1,TVE Bahia SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/284492
+#EXTINF:-1,TVE Brasil SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169516
+#EXTINF:-1,UFC Fight Pass FHD [UFC TV]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/177436
+#EXTINF:-1,UFC Fight Pass HD [UFC TV]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83789
+#EXTINF:-1,UFC Fight Pass SD [UFC TV]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169515
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164594
+#EXTINF:-1,Universal Channel TV FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136805
+#EXTINF:-1,Universal Channel TV FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147740
+#EXTINF:-1,Universal Channel TV FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83427
+#EXTINF:-1,Universal Channel TV HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83274
+#EXTINF:-1,Universal Channel TV HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147741
+#EXTINF:-1,Universal Channel TV SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83664
+#EXTINF:-1,Urban Kids
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/70449
+#EXTINF:-1,VH1 Itália FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136711
+#EXTINF:-1,VillaMix em Casa [Só Modão]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136593
+#EXTINF:-1,Viva FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139114
+#EXTINF:-1,Viva FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147744
+#EXTINF:-1,Viva FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/163277
+#EXTINF:-1,Viva HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83276
+#EXTINF:-1,Viva HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147745
+#EXTINF:-1,Viva SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83659
+#EXTINF:-1,Volei Brasil 1 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169505
+#EXTINF:-1,Volei Brasil 2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169506
+#EXTINF:-1,Warner Channel FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136807
+#EXTINF:-1,Warner Channel FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147746
+#EXTINF:-1,Warner Channel FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83428
+#EXTINF:-1,Warner Channel HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83277
+#EXTINF:-1,Warner Channel HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147747
+#EXTINF:-1,Warner Channel SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83660
+#EXTINF:-1,Wesley Safadão e Raça Negra [Skol Sunset]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136182
+#EXTINF:-1,WooHoo FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147357
+#EXTINF:-1,Woohoo FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147748
+#EXTINF:-1,WooHoo FHD [H265]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83429
+#EXTINF:-1,WooHoo HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150161
+#EXTINF:-1,Woohoo HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/142028
+#EXTINF:-1,WooHoo SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83661
+#EXTINF:-1,X-Men 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133416
+#EXTINF:-1,X-Men 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133417
+#EXTINF:-1,Xand Avião e os Barões da Pisadinha [Live Oficial]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/136181
+#EXTINF:-1,Zoomoo FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147531
+#EXTINF:-1,Zoomoo HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83526
+#EXTINF:-1,Zé Neto e Cristiano [Live Barretão]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133627
+#EXTINF:-1,Zé Neto e Cristiano [Live Barzinho Aleatório]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133625
+#EXTINF:-1,Zé Neto e Cristiano [Live Dia da Cerveja]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133626
+#EXTINF:-1,[24H] 3 Palavrinhas
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83751
+#EXTINF:-1,[24H] A Casa do Mickey Mouse
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140984
+#EXTINF:-1,[24H] A Culpa é do Cabral 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151375
+#EXTINF:-1,[24H] A Culpa é do Cabral 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151376
+#EXTINF:-1,[24H] A Culpa é do Cabral 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151377
+#EXTINF:-1,[24H] A Feiticeira
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83758
+#EXTINF:-1,[24H] A Grande Familia 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133411
+#EXTINF:-1,[24H] A Grande Familia 10
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305311
+#EXTINF:-1,[24H] A Grande Familia 11
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305312
+#EXTINF:-1,[24H] A Grande Familia 12
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305313
+#EXTINF:-1,[24H] A Grande Familia 13
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305314
+#EXTINF:-1,[24H] A Grande Familia 14
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305315
+#EXTINF:-1,[24H] A Grande Familia 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133412
+#EXTINF:-1,[24H] A Grande Familia 3
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305304
+#EXTINF:-1,[24H] A Grande Familia 4
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305305
+#EXTINF:-1,[24H] A Grande Familia 5
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305306
+#EXTINF:-1,[24H] A Grande Familia 6
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305307
+#EXTINF:-1,[24H] A Grande Familia 7
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305308
+#EXTINF:-1,[24H] A Grande Familia 8
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305309
+#EXTINF:-1,[24H] A Grande Familia 9
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305310
+#EXTINF:-1,[24H] A Guarda do Leão
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83684
+#EXTINF:-1,[24H] A Mansão Foster
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/544
+#EXTINF:-1,[24H] A Roda do Ônibus
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62967
+#EXTINF:-1,[24H] Aladdin
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83674
+#EXTINF:-1,[24H] American Dad 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306568
+#EXTINF:-1,[24H] American Dad 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306569
+#EXTINF:-1,[24H] American Dad 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306570
+#EXTINF:-1,[24H] American Dad 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306571
+#EXTINF:-1,[24H] American Dad 05
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306572
+#EXTINF:-1,[24H] American Dad 06
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306573
+#EXTINF:-1,[24H] American Dad 07
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306574
+#EXTINF:-1,[24H] American Dad 08
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306575
+#EXTINF:-1,[24H] American Dad 09
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306576
+#EXTINF:-1,[24H] American Dad 10
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306577
+#EXTINF:-1,[24H] American Dad 11
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306578
+#EXTINF:-1,[24H] American Dad 12
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306579
+#EXTINF:-1,[24H] American Dad 13
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306580
+#EXTINF:-1,[24H] American Dad 14
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306581
+#EXTINF:-1,[24H] American Dad 15
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306582
+#EXTINF:-1,[24H] American Dad 16
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306583
+#EXTINF:-1,[24H] American Dad 17
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306584
+#EXTINF:-1,[24H] Angry Birds
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83702
+#EXTINF:-1,[24H] Apenas um Show
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62978
+#EXTINF:-1,[24H] As Aventuras do Batman 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/143688
+#EXTINF:-1,[24H] As Aventuras do Batman 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/143798
+#EXTINF:-1,[24H] As Meninas Superpoderosas
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83675
+#EXTINF:-1,[24H] As Visões da Raven
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169507
+#EXTINF:-1,[24H] Auto da Comparecida
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62998
+#EXTINF:-1,[24H] Baby Looney Tunes
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83240
+#EXTINF:-1,[24H] BEN 10 - 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140811
+#EXTINF:-1,[24H] BEN 10 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62972
+#EXTINF:-1,[24H] Big Mouth 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/309337
+#EXTINF:-1,[24H] Big Mouth 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/309338
+#EXTINF:-1,[24H] Big Mouth 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/309339
+#EXTINF:-1,[24H] Big Mouth 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/309359
+#EXTINF:-1,[24H] Big Mouth 05
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/309360
+#EXTINF:-1,[24H] Bita e os Animais
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83753
+#EXTINF:-1,[24H] Black Mirror 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/304050
+#EXTINF:-1,[24H] Black Mirror 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/304051
+#EXTINF:-1,[24H] Black Mirror 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/304052
+#EXTINF:-1,[24H] Black Mirror 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/304053
+#EXTINF:-1,[24H] Black Mirror 05
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/304055
+#EXTINF:-1,[24H] Black Mirror 06
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/304054
+#EXTINF:-1,[24H] Bob Esponja 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140950
+#EXTINF:-1,[24H] Bob o Trem 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62983
+#EXTINF:-1,[24H] Bob o Trem 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147829
+#EXTINF:-1,[24H] Bob Zoom 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147830
+#EXTINF:-1,[24H] Bob Zoom 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62965
+#EXTINF:-1,[24H] Bobs Burgers 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/309340
+#EXTINF:-1,[24H] Bobs Burgers 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/309341
+#EXTINF:-1,[24H] Bobs Burgers 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/309342
+#EXTINF:-1,[24H] Bobs Burgers 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/309343
+#EXTINF:-1,[24H] Bobs Burgers 05
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/309344
+#EXTINF:-1,[24H] Bobs Burgers 06
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/309345
+#EXTINF:-1,[24H] Bobs Burgers 07
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/309346
+#EXTINF:-1,[24H] Bobs Burgers 08
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/309347
+#EXTINF:-1,[24H] Bobs Burgers 09
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/309356
+#EXTINF:-1,[24H] Bobs Burgers 10
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/309357
+#EXTINF:-1,[24H] Bobs Burgers 11
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/309358
+#EXTINF:-1,[24H] Booba 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147831
+#EXTINF:-1,[24H] Booba 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62952
+#EXTINF:-1,[24H] Caillou
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62956
+#EXTINF:-1,[24H] Carmen Sandiego
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/165430
+#EXTINF:-1,[24H] Cascão A Turma da Monica
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62964
+#EXTINF:-1,[24H] Castlevania 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/309353
+#EXTINF:-1,[24H] Castlevania 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/309354
+#EXTINF:-1,[24H] Castlevania 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/309355
+#EXTINF:-1,[24H] Cavaleiros do Zodiaco 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83719
+#EXTINF:-1,[24H] Cavaleiros do Zodiaco 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152888
+#EXTINF:-1,[24H] Cavaleiros do Zodiaco 3
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152889
+#EXTINF:-1,[24H] Cavaleiros do Zodiaco 4
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152890
+#EXTINF:-1,[24H] Cavaleiros do Zodiaco 5
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152891
+#EXTINF:-1,[24H] Cavaleiros do Zodiaco 6
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152892
+#EXTINF:-1,[24H] Caverna do Dragão 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62995
+#EXTINF:-1,[24H] Caçadores De Bugs 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/309351
+#EXTINF:-1,[24H] Caçadores De Bugs 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/309352
+#EXTINF:-1,[24H] Chapolin 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62975
+#EXTINF:-1,[24H] Chaves 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133414
+#EXTINF:-1,[24H] Chaves Desenho
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83683
+#EXTINF:-1,[24H] Clarêncio, O Otimista
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/156574
+#EXTINF:-1,[24H] Coragem o Cão Covarde 1 
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83679
+#EXTINF:-1,[24H] Coragem o Cão Covarde 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62987
+#EXTINF:-1,[24H] Corrida Maluca 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83759
+#EXTINF:-1,[24H] Corrida Maluca 1968
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/148014
+#EXTINF:-1,[24H] Corrida Maluca 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/148277
+#EXTINF:-1,[24H] Corrida Maluca 3
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62974
+#EXTINF:-1,[24H] Detetives do Prédio Azul 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305316
+#EXTINF:-1,[24H] Detetives do Prédio Azul 10
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305325
+#EXTINF:-1,[24H] Detetives do Prédio Azul 11
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305326
+#EXTINF:-1,[24H] Detetives do Prédio Azul 12
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305327
+#EXTINF:-1,[24H] Detetives do Prédio Azul 13
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305328
+#EXTINF:-1,[24H] Detetives do Prédio Azul 14
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305329
+#EXTINF:-1,[24H] Detetives do Prédio Azul 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305317
+#EXTINF:-1,[24H] Detetives do Prédio Azul 3
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305318
+#EXTINF:-1,[24H] Detetives do Prédio Azul 4
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305319
+#EXTINF:-1,[24H] Detetives do Prédio Azul 5
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305320
+#EXTINF:-1,[24H] Detetives do Prédio Azul 6
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305321
+#EXTINF:-1,[24H] Detetives do Prédio Azul 7
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305322
+#EXTINF:-1,[24H] Detetives do Prédio Azul 8
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305323
+#EXTINF:-1,[24H] Detetives do Prédio Azul 9
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305324
+#EXTINF:-1,[24H] Dexter 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306585
+#EXTINF:-1,[24H] Dexter 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306586
+#EXTINF:-1,[24H] Dexter 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306587
+#EXTINF:-1,[24H] Dexter 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306588
+#EXTINF:-1,[24H] Dexter 05
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306589
+#EXTINF:-1,[24H] Dexter 06
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306590
+#EXTINF:-1,[24H] Dexter 07
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306591
+#EXTINF:-1,[24H] Dexter 08
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306592
+#EXTINF:-1,[24H] Digimon 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83687
+#EXTINF:-1,[24H] Digimon 15º Aniversário
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/153992
+#EXTINF:-1,[24H] Digimon 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/153989
+#EXTINF:-1,[24H] Digimon Adventure Zero Two
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/153991
+#EXTINF:-1,[24H] Digimon Frontier
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/153993
+#EXTINF:-1,[24H] Digimon Savers
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/153994
+#EXTINF:-1,[24H] Digimon Tamers
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/153995
+#EXTINF:-1,[24H] Dois Homens e Meio 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83688
+#EXTINF:-1,[24H] Dois Homens e Meio 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152905
+#EXTINF:-1,[24H] Dois Homens e Meio 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152906
+#EXTINF:-1,[24H] Dois Homens e Meio 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152907
+#EXTINF:-1,[24H] Dois Homens e Meio 05
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152908
+#EXTINF:-1,[24H] Dois Homens e Meio 06
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152909
+#EXTINF:-1,[24H] Dois Homens e Meio 07
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152910
+#EXTINF:-1,[24H] Dois Homens e Meio 08
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152911
+#EXTINF:-1,[24H] Dois Homens e Meio 09
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152912
+#EXTINF:-1,[24H] Dois Homens e Meio 10
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152913
+#EXTINF:-1,[24H] Dois Homens e Meio 11
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152914
+#EXTINF:-1,[24H] Dois Homens e Meio 12
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152915
+#EXTINF:-1,[24H] Dora Aventureira 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140789
+#EXTINF:-1,[24H] Dora Aventureira 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/89548
+#EXTINF:-1,[24H] Doug 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83689
+#EXTINF:-1,[24H] Doug 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/153996
+#EXTINF:-1,[24H] Dr House 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305799
+#EXTINF:-1,[24H] Dr House 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305800
+#EXTINF:-1,[24H] Dr House 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305801
+#EXTINF:-1,[24H] Dr House 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305802
+#EXTINF:-1,[24H] Dr House 05
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305803
+#EXTINF:-1,[24H] Dr House 06
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305804
+#EXTINF:-1,[24H] Dr House 07
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305805
+#EXTINF:-1,[24H] Dr House 08
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305806
+#EXTINF:-1,[24H] Dragon Ball 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83690
+#EXTINF:-1,[24H] Dragon Ball 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/153999
+#EXTINF:-1,[24H] Dragon Ball Heroes
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152661
+#EXTINF:-1,[24H] Dragon Ball Super 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83692
+#EXTINF:-1,[24H] Dragon Ball Super 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152662
+#EXTINF:-1,[24H] Dragon Ball Super 3
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152663
+#EXTINF:-1,[24H] Dragon Ball Z 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83691
+#EXTINF:-1,[24H] Dragon Ball Z 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152670
+#EXTINF:-1,[24H] Dragon Ball [Filmes 1]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152664
+#EXTINF:-1,[24H] Du, Dudu e Edu
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/156745
+#EXTINF:-1,[24H] Em Busca do Vale Encantado
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62985
+#EXTINF:-1,[24H] Escolinha do Professor Raimundo
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62951
+#EXTINF:-1,[24H] Eu a Patroa e as Crianças 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62986
+#EXTINF:-1,[24H] Eu a Patroa e as Crianças 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83693
+#EXTINF:-1,[24H] Eu a Patroa e as Crianças 3
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152667
+#EXTINF:-1,[24H] Eu a Patroa e as Crianças 4
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152668
+#EXTINF:-1,[24H] Eu a Patroa e as Crianças 5
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152669
+#EXTINF:-1,[24H] Filhos da Anarquia 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306561
+#EXTINF:-1,[24H] Filhos da Anarquia 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306562
+#EXTINF:-1,[24H] Filhos da Anarquia 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306563
+#EXTINF:-1,[24H] Filhos da Anarquia 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306564
+#EXTINF:-1,[24H] Filhos da Anarquia 05
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306565
+#EXTINF:-1,[24H] Filhos da Anarquia 06
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306566
+#EXTINF:-1,[24H] Filhos da Anarquia 07
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306567
+#EXTINF:-1,[24H] Formiga Atômica
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83694
+#EXTINF:-1,[24H] Freakazoid
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162899
+#EXTINF:-1,[24H] Friends 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/89538
+#EXTINF:-1,[24H] Friends 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/89539
+#EXTINF:-1,[24H] Friends 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/89540
+#EXTINF:-1,[24H] Friends 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/89541
+#EXTINF:-1,[24H] Friends 05
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/89542
+#EXTINF:-1,[24H] Friends 06
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/89543
+#EXTINF:-1,[24H] Friends 07
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/89544
+#EXTINF:-1,[24H] Friends 08
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/89545
+#EXTINF:-1,[24H] Friends 09
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/89546
+#EXTINF:-1,[24H] Friends 10
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/89547
+#EXTINF:-1,[24H] Futurama
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162900
+#EXTINF:-1,[24H] Galinha Pintadinha
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83695
+#EXTINF:-1,[24H] Galo e a Pata
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62968
+#EXTINF:-1,[24H] Game Of Thrones 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305791
+#EXTINF:-1,[24H] Game Of Thrones 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305792
+#EXTINF:-1,[24H] Game Of Thrones 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305793
+#EXTINF:-1,[24H] Game Of Thrones 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305794
+#EXTINF:-1,[24H] Game Of Thrones 05
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305795
+#EXTINF:-1,[24H] Game Of Thrones 06
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305796
+#EXTINF:-1,[24H] Game Of Thrones 07
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305797
+#EXTINF:-1,[24H] Game Of Thrones 08
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305798
+#EXTINF:-1,[24H] Garfield 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/143799
+#EXTINF:-1,[24H] Garfield 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/143805
+#EXTINF:-1,[24H] Garfield 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/70685
+#EXTINF:-1,[24H] He-Man 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83697
+#EXTINF:-1,[24H] He-Man 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/154001
+#EXTINF:-1,[24H] He-Man 2002
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/154002
+#EXTINF:-1,[24H] He-Man 3
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/156043
+#EXTINF:-1,[24H] Homem Aranha Animado 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83700
+#EXTINF:-1,[24H] Homem Aranha Animado 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/154003
+#EXTINF:-1,[24H] Homem de Ferro 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83701
+#EXTINF:-1,[24H] Homem de Ferro 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/142121
+#EXTINF:-1,[24H] Homem de Ferro 1994
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/142122
+#EXTINF:-1,[24H] Irmão do Jorel 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62994
+#EXTINF:-1,[24H] Irmão do Jorel 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/155389
+#EXTINF:-1,[24H] Jacarelvis
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62984
+#EXTINF:-1,[24H] Jiraya
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/122179
+#EXTINF:-1,[24H] Johnny Bravo
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/156744
+#EXTINF:-1,[24H] Johnny Test
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62996
+#EXTINF:-1,[24H] Kenan e Kel
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83707
+#EXTINF:-1,[24H] Larva Chiclete
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/63003
+#EXTINF:-1,[24H] Leo O-Caminhão
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62981
+#EXTINF:-1,[24H] Liga da Justica
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83754
+#EXTINF:-1,[24H] Looney Tunes
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62988
+#EXTINF:-1,[24H] Luluzinha 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83708
+#EXTINF:-1,[24H] Luluzinha 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62997
+#EXTINF:-1,[24H] Masha e o Urso
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62993
+#EXTINF:-1,[24H] Medabots
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83709
+#EXTINF:-1,[24H] MegaMan
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83710
+#EXTINF:-1,[24H] Moranguinho 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147946
+#EXTINF:-1,[24H] Moranguinho 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/63005
+#EXTINF:-1,[24H] Naruto
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83713
+#EXTINF:-1,[24H] O Clube das Winx
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/143685
+#EXTINF:-1,[24H] Oggy e as Baratas
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62955
+#EXTINF:-1,[24H] One Piece East Blue
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162898
+#EXTINF:-1,[24H] Os Flinstones
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83720
+#EXTINF:-1,[24H] Os Jetson
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162897
+#EXTINF:-1,[24H] Os Padrinhos Mágicos 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/143800
+#EXTINF:-1,[24H] Os Padrinhos Mágicos 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/143801
+#EXTINF:-1,[24H] Os Padrinhos Mágicos 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/143802
+#EXTINF:-1,[24H] Os Padrinhos Mágicos 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/143803
+#EXTINF:-1,[24H] Os Padrinhos Mágicos 05
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/143804
+#EXTINF:-1,[24H] Os Patos
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62992
+#EXTINF:-1,[24H] Os Simpsons 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83721
+#EXTINF:-1,[24H] Os Simpsons 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147155
+#EXTINF:-1,[24H] Os Simpsons 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147156
+#EXTINF:-1,[24H] Os Simpsons 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147170
+#EXTINF:-1,[24H] Os Simpsons 05
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147475
+#EXTINF:-1,[24H] Os Simpsons 06
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83865
+#EXTINF:-1,[24H] Os Simpsons 07
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83864
+#EXTINF:-1,[24H] Os Simpsons 08
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147476
+#EXTINF:-1,[24H] Os Simpsons 09
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83868
+#EXTINF:-1,[24H] Os Simpsons 10
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83867
+#EXTINF:-1,[24H] Os Simpsons 11
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147477
+#EXTINF:-1,[24H] Os Simpsons 12
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/86707
+#EXTINF:-1,[24H] Os Simpsons 13
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147478
+#EXTINF:-1,[24H] Os Simpsons 14
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83870
+#EXTINF:-1,[24H] Os Simpsons 15
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147479
+#EXTINF:-1,[24H] Os Simpsons 16
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/165436
+#EXTINF:-1,[24H] Os Simpsons 17
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147480
+#EXTINF:-1,[24H] Os Simpsons 18
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83871
+#EXTINF:-1,[24H] Os Simpsons 19
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147527
+#EXTINF:-1,[24H] Os Simpsons 20
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149247
+#EXTINF:-1,[24H] Os Simpsons 21
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147529
+#EXTINF:-1,[24H] Os Simpsons 22
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147528
+#EXTINF:-1,[24H] Os Simpsons 23
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147533
+#EXTINF:-1,[24H] Os Simpsons 24
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147535
+#EXTINF:-1,[24H] Os Simpsons 25
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147534
+#EXTINF:-1,[24H] Os Simpsons 26
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/87735
+#EXTINF:-1,[24H] Os Simpsons 27
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147552
+#EXTINF:-1,[24H] Os Simpsons 28
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150466
+#EXTINF:-1,[24H] Os Simpsons 29
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150467
+#EXTINF:-1,[24H] Os Simpsons 30
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150640
+#EXTINF:-1,[24H] Os Simpsons 31
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150468
+#EXTINF:-1,[24H] Os Simpsons 32
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150473
+#EXTINF:-1,[24H] Os Simpsons 33
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150474
+#EXTINF:-1,[24H] Os Simpsons 34
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150469
+#EXTINF:-1,[24H] Os Trapalhões 
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/263
+#EXTINF:-1,[24H] Pantera Cor de Rosa 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147949
+#EXTINF:-1,[24H] Pantera Cor de Rosa 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62990
+#EXTINF:-1,[24H] Patati e Patata 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62979
+#EXTINF:-1,[24H] Patati e Patata 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147947
+#EXTINF:-1,[24H] Patati e Patata 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/264
+#EXTINF:-1,[24H] Pato Donald
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62991
+#EXTINF:-1,[24H] Patrulha Canina 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169538
+#EXTINF:-1,[24H] Patrulha Canina 3
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169536
+#EXTINF:-1,[24H] Patrulha Canina 4
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169535
+#EXTINF:-1,[24H] Patrulha Canina 5
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83733
+#EXTINF:-1,[24H] Patrulha Canina 6
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83723
+#EXTINF:-1,[24H] Peppa Pig
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83724
+#EXTINF:-1,[24H] Pequena Sereia
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147948
+#EXTINF:-1,[24H] Pernalonga 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/146926
+#EXTINF:-1,[24H] Pernalonga 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/146927
+#EXTINF:-1,[24H] Pica Pau 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83727
+#EXTINF:-1,[24H] Pica Pau 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/148200
+#EXTINF:-1,[24H] Pica Pau 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62973
+#EXTINF:-1,[24H] Pink-e-Cerebro
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83728
+#EXTINF:-1,[24H] Pintinho Amarelinho 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147945
+#EXTINF:-1,[24H] Pintinho Amarelinho 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62963
+#EXTINF:-1,[24H] PJ Masks
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62958
+#EXTINF:-1,[24H] Pocoyo
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83722
+#EXTINF:-1,[24H] Pokemon 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83729
+#EXTINF:-1,[24H] Pokemon 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147950
+#EXTINF:-1,[24H] Popeye
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/141023
+#EXTINF:-1,[24H] Popeye 75th
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/154892
+#EXTINF:-1,[24H] Porta dos Fundos 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140705
+#EXTINF:-1,[24H] Porta dos Fundos 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140813
+#EXTINF:-1,[24H] Princesa e o Dragão
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62982
+#EXTINF:-1,[24H] Prison Break 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306593
+#EXTINF:-1,[24H] Prison Break 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306594
+#EXTINF:-1,[24H] Prison Break 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306595
+#EXTINF:-1,[24H] Prison Break 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306596
+#EXTINF:-1,[24H] Prison Break 05
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306597
+#EXTINF:-1,[24H] Rambo
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83731
+#EXTINF:-1,[24H] Reino Gelado
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/63001
+#EXTINF:-1,[24H] Rick And Morty 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/137991
+#EXTINF:-1,[24H] Rick And Morty 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/137992
+#EXTINF:-1,[24H] Rick And Morty 3
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/137993
+#EXTINF:-1,[24H] Rick And Morty 4
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133413
+#EXTINF:-1,[24H] Rick And Morty 5
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150476
+#EXTINF:-1,[24H] Rick And Morty 6
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150477
+#EXTINF:-1,[24H] Rimas de Berçário
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62966
+#EXTINF:-1,[24H] Sakura Card
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/280
+#EXTINF:-1,[24H] Samurai Warriors
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/269
+#EXTINF:-1,[24H] Samurai-X 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147951
+#EXTINF:-1,[24H] Samurai-X 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147991
+#EXTINF:-1,[24H] Sapo Não Lava o Pé 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/143686
+#EXTINF:-1,[24H] Sapo Não Lava o Pé 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62976
+#EXTINF:-1,[24H] Scooby-Doo
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83732
+#EXTINF:-1,[24H] Scooby-Doo - 13 Fantasmas 1985
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/156747
+#EXTINF:-1,[24H] Shaman King
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/270
+#EXTINF:-1,[24H] She-ra
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/63002
+#EXTINF:-1,[24H] Shinzo
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/281
+#EXTINF:-1,[24H] Show da Luna
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62957
+#EXTINF:-1,[24H] Shurato
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/271
+#EXTINF:-1,[24H] Simon
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62980
+#EXTINF:-1,[24H] Sitio do Pica-Pau Amarelo
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/63000
+#EXTINF:-1,[24H] Smallville 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133433
+#EXTINF:-1,[24H] Smallville 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133435
+#EXTINF:-1,[24H] Smallville 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133436
+#EXTINF:-1,[24H] Smallville 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133437
+#EXTINF:-1,[24H] Smallville 05
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133438
+#EXTINF:-1,[24H] Smallville 06
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133439
+#EXTINF:-1,[24H] Smallville 07
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133440
+#EXTINF:-1,[24H] Smallville 08
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133441
+#EXTINF:-1,[24H] Smallville 09
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133442
+#EXTINF:-1,[24H] Smallville 10
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133443
+#EXTINF:-1,[24H] South Park 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83735
+#EXTINF:-1,[24H] South Park 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152554
+#EXTINF:-1,[24H] South Park 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152555
+#EXTINF:-1,[24H] Speed-Racer
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/265
+#EXTINF:-1,[24H] Steven Universe
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83736
+#EXTINF:-1,[24H] Street Fighter 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162896
+#EXTINF:-1,[24H] Super Choque 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83757
+#EXTINF:-1,[24H] Super Choque 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/156748
+#EXTINF:-1,[24H] Super Mario Bros 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162901
+#EXTINF:-1,[24H] Super Mario Bros 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/273
+#EXTINF:-1,[24H] Super Wings 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83718
+#EXTINF:-1,[24H] Super Wings 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83704
+#EXTINF:-1,[24H] Superman - Homem do Amanhã
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/143687
+#EXTINF:-1,[24H] Superman Animado 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83737
+#EXTINF:-1,[24H] Superman Animado 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152553
+#EXTINF:-1,[24H] Supernatural 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133419
+#EXTINF:-1,[24H] Supernatural 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133420
+#EXTINF:-1,[24H] Supernatural 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133421
+#EXTINF:-1,[24H] Supernatural 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133422
+#EXTINF:-1,[24H] Supernatural 05
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133423
+#EXTINF:-1,[24H] Supernatural 06
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133424
+#EXTINF:-1,[24H] Supernatural 07
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133425
+#EXTINF:-1,[24H] Supernatural 08
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133426
+#EXTINF:-1,[24H] Supernatural 09
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133427
+#EXTINF:-1,[24H] Supernatural 10
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133428
+#EXTINF:-1,[24H] Supernatural 11
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133429
+#EXTINF:-1,[24H] Supernatural 12
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133430
+#EXTINF:-1,[24H] Supernatural 13
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133431
+#EXTINF:-1,[24H] Supernatural 14
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/133432
+#EXTINF:-1,[24H] Tartarugas Ninjas
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83738
+#EXTINF:-1,[24H] Team-Galaxy
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/266
+#EXTINF:-1,[24H] The Walking Dead 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305807
+#EXTINF:-1,[24H] The Walking Dead 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305808
+#EXTINF:-1,[24H] The Walking Dead 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305809
+#EXTINF:-1,[24H] The Walking Dead 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305810
+#EXTINF:-1,[24H] The Walking Dead 05
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305811
+#EXTINF:-1,[24H] The Walking Dead 06
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305812
+#EXTINF:-1,[24H] The Walking Dead 07
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305813
+#EXTINF:-1,[24H] The Walking Dead 08
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305814
+#EXTINF:-1,[24H] The Walking Dead 09
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305815
+#EXTINF:-1,[24H] The Walking Dead 10
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305816
+#EXTINF:-1,[24H] The Walking Dead 11
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/305817
+#EXTINF:-1,[24H] Thiago Ventura
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140704
+#EXTINF:-1,[24H] Thundercats
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83739
+#EXTINF:-1,[24H] Timão e Pumba 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/274
+#EXTINF:-1,[24H] Timão e Pumba 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83740
+#EXTINF:-1,[24H] Todo Mundo Odeia o Chris 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147171
+#EXTINF:-1,[24H] Todo Mundo Odeia o Chris 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147172
+#EXTINF:-1,[24H] Todo Mundo Odeia o Chris 3
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147173
+#EXTINF:-1,[24H] Todo Mundo Odeia o Chris 4
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147174
+#EXTINF:-1,[24H] Todo Mundo Odeia o Chris 5
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152571
+#EXTINF:-1,[24H] Todo Mundo Odeia o Chris 6
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152572
+#EXTINF:-1,[24H] Todo Mundo Odeia o Chris 7
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152573
+#EXTINF:-1,[24H] Todo Mundo Odeia o Chris 8
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152574
+#EXTINF:-1,[24H] Tom & Jerry
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83742
+#EXTINF:-1,[24H] Três Espiãs Demais
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83743
+#EXTINF:-1,[24H] Turma da Mônica
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/148201
+#EXTINF:-1,[24H] Turma do Pateta
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62989
+#EXTINF:-1,[24H] Ultraman
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/267
+#EXTINF:-1,[24H] Um Maluco no Pedaço 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83744
+#EXTINF:-1,[24H] Um Maluco no Pedaço 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/148260
+#EXTINF:-1,[24H] Um Maluco no Pedaço 3
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/148261
+#EXTINF:-1,[24H] Um Maluco no Pedaço 4
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/148262
+#EXTINF:-1,[24H] Um Maluco no Pedaço 5
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/148263
+#EXTINF:-1,[24H] Um Maluco no Pedaço 6
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/148264
+#EXTINF:-1,[24H] Uma Família da Pesada 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306542
+#EXTINF:-1,[24H] Uma Família da Pesada 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306543
+#EXTINF:-1,[24H] Uma Família da Pesada 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306544
+#EXTINF:-1,[24H] Uma Família da Pesada 05
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306545
+#EXTINF:-1,[24H] Uma Família da Pesada 06
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306546
+#EXTINF:-1,[24H] Uma Família da Pesada 07
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306547
+#EXTINF:-1,[24H] Uma Família da Pesada 08
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306548
+#EXTINF:-1,[24H] Uma Família da Pesada 09
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306549
+#EXTINF:-1,[24H] Uma Família da Pesada 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83745
+#EXTINF:-1,[24H] Uma Família da Pesada 10
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306550
+#EXTINF:-1,[24H] Uma Família da Pesada 11
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306551
+#EXTINF:-1,[24H] Uma Família da Pesada 12
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306552
+#EXTINF:-1,[24H] Uma Família da Pesada 13
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306553
+#EXTINF:-1,[24H] Uma Família da Pesada 14
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306554
+#EXTINF:-1,[24H] Uma Família da Pesada 15
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306555
+#EXTINF:-1,[24H] Uma Família da Pesada 16
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306556
+#EXTINF:-1,[24H] Uma Família da Pesada 17
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306557
+#EXTINF:-1,[24H] Uma Família da Pesada 18
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306558
+#EXTINF:-1,[24H] Uma Família da Pesada 19
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306559
+#EXTINF:-1,[24H] Uma Família da Pesada 20
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/306560
+#EXTINF:-1,[24H] Ursinhos Carinhosos 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83746
+#EXTINF:-1,[24H] Ursinhos Carinhosos 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/148274
+#EXTINF:-1,[24H] Vai que Cola 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83755
+#EXTINF:-1,[24H] Vai que Cola 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152557
+#EXTINF:-1,[24H] Vai que Cola 3
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152558
+#EXTINF:-1,[24H] Vai que Cola 5
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152560
+#EXTINF:-1,[24H] Vai que Cola 6
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152561
+#EXTINF:-1,[24H] Vai que Cola 7
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152562
+#EXTINF:-1,[24H] Vai que Cola 8
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152563
+#EXTINF:-1,[24H] Vai, Cachorro. Vai!
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150478
+#EXTINF:-1,[24H] Wally Gator
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/276
+#EXTINF:-1,[24H] Wolverine e os X-Men
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152887
+#EXTINF:-1,[24H] X-Men 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83747
+#EXTINF:-1,[24H] X-Men 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152673
+#EXTINF:-1,[24H] Xena
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83748
+#EXTINF:-1,[24H] Xuxa só para Baixinhos 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/148202
+#EXTINF:-1,[24H] Xuxa só para Baixinhos 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/62953
+#EXTINF:-1,[24H] YT-Delegado Dacunha 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152321
+#EXTINF:-1,[24H] YT-Delegado Dacunha 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152322
+#EXTINF:-1,[24H] YT-Delegado Dacunha 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152323
+#EXTINF:-1,[24H] YT-Delegado Dacunha 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152324
+#EXTINF:-1,[24H] YT-Investigação Criminal
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152309
+#EXTINF:-1,[24H] YT-Policia Militar
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152319
+#EXTINF:-1,[24H] YU-YU-Hakusho
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83750
+#EXTINF:-1,[24H] Zatch Bell
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/279
+#EXTINF:-1,[24H] Zé Buscapé
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/278
+#EXTINF:-1,CA: City Toronto
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169498
+#EXTINF:-1,CA: Game Show Network
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150348
+#EXTINF:-1,US: Flow Sports Caribbean
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150350
+#EXTINF:-1,US: TUDN
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150351
+#EXTINF:-1,CA: Sportsnet 360 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150352
+#EXTINF:-1,CA: Sportsnet One HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150345
+#EXTINF:-1,CA: Sportsnet West HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150353
+#EXTINF:-1,CA: Sportsnet World HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150354
+#EXTINF:-1,CA: TSN 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139721
+#EXTINF:-1,CA: TSN 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164919
+#EXTINF:-1,CA: TSN 3
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139698
+#EXTINF:-1,CA: TSN 4
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139722
+#EXTINF:-1,CA: TSN 5
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139699
+#EXTINF:-1,PT: 24 Kitchen HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139474
+#EXTINF:-1,PT: A Bola TV
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139476
+#EXTINF:-1,PT: Afro Music
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139477
+#EXTINF:-1,PT: AMC
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139528
+#EXTINF:-1,PT: AMC FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139478
+#EXTINF:-1,PT: AMC HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139479
+#EXTINF:-1,PT: ARTV
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139480
+#EXTINF:-1,PT: AXN FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139481
+#EXTINF:-1,PT: AXN HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139483
+#EXTINF:-1,PT: AXN Movies FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140375
+#EXTINF:-1,PT: AXN Movies HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140374
+#EXTINF:-1,PT: AXN White FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139484
+#EXTINF:-1,PT: AXN White HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139485
+#EXTINF:-1,PT: Baby TV
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139486
+#EXTINF:-1,PT: Benfica TV 1 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139487
+#EXTINF:-1,PT: Blaze FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140404
+#EXTINF:-1,PT: Canal 11 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140376
+#EXTINF:-1,PT: Canal 11 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140377
+#EXTINF:-1,PT: Canal Panda
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139493
+#EXTINF:-1,PT: Canal Porto
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139539
+#EXTINF:-1,PT: Canal Q
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139494
+#EXTINF:-1,PT: Cartoon Network
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139495
+#EXTINF:-1,PT: Casa e Cozinha FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140408
+#EXTINF:-1,PT: CaçaVision
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139490
+#EXTINF:-1,PT: CBS Reality
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139496
+#EXTINF:-1,PT: CineMundo HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139497
+#EXTINF:-1,PT: CMTV HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139498
+#EXTINF:-1,PT: CNN
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140361
+#EXTINF:-1,PT: Discovery Channel
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140405
+#EXTINF:-1,PT: Discovery Channel FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139499
+#EXTINF:-1,PT: Disney Channel
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139501
+#EXTINF:-1,PT: Disney Junior
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139502
+#EXTINF:-1,PT: DOG TV FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139503
+#EXTINF:-1,PT: E! Entertainment
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139504
+#EXTINF:-1,PT: Eleven Sport 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140385
+#EXTINF:-1,PT: Eleven Sport 1 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140386
+#EXTINF:-1,PT: Eleven Sport 1 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140384
+#EXTINF:-1,PT: Eleven Sport 2 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140388
+#EXTINF:-1,PT: Eleven Sport 2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140387
+#EXTINF:-1,PT: Eleven Sport 3
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140390
+#EXTINF:-1,PT: Eleven Sport 3 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140391
+#EXTINF:-1,PT: Eleven Sport 4
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140392
+#EXTINF:-1,PT: Eleven Sport 4 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140393
+#EXTINF:-1,PT: Eleven Sport 5 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140394
+#EXTINF:-1,PT: Eleven Sport 6 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140396
+#EXTINF:-1,PT: Eleven Sport 6 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140395
+#EXTINF:-1,PT: Eurosport 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139506
+#EXTINF:-1,PT: Eurosport 1 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139505
+#EXTINF:-1,PT: Eurosport 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139507
+#EXTINF:-1,PT: FOX Comedy
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139510
+#EXTINF:-1,PT: FOX Crime
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139512
+#EXTINF:-1,PT: FOX Crime FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139513
+#EXTINF:-1,PT: FOX Crime HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140373
+#EXTINF:-1,PT: FOX FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139519
+#EXTINF:-1,PT: FOX HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139514
+#EXTINF:-1,PT: FOX Life FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139516
+#EXTINF:-1,PT: FOX Life HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139515
+#EXTINF:-1,PT: FOX Movies
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139517
+#EXTINF:-1,PT: FOX Movies HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139518
+#EXTINF:-1,PT: FUEL TV
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139520
+#EXTINF:-1,PT: Globo
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140363
+#EXTINF:-1,PT: Globo FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139522
+#EXTINF:-1,PT: Historia
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140407
+#EXTINF:-1,PT: Hollywood
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139523
+#EXTINF:-1,PT: Hollywood FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139524
+#EXTINF:-1,PT: Investigation Discovery FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140406
+#EXTINF:-1,PT: MCM Pop
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140402
+#EXTINF:-1,PT: Mezzo Live
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139525
+#EXTINF:-1,PT: MotorVision
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139527
+#EXTINF:-1,PT: MTV 00s
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139591
+#EXTINF:-1,PT: MTV Portugal
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139529
+#EXTINF:-1,PT: MTV Portugal FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139530
+#EXTINF:-1,PT: Nat Geo Wild FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139532
+#EXTINF:-1,PT: Nat Geo Wild HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139531
+#EXTINF:-1,PT: National Geographic
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139533
+#EXTINF:-1,PT: National Geographic FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139534
+#EXTINF:-1,PT: National Geographic HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140409
+#EXTINF:-1,PT: Nick JR
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140403
+#EXTINF:-1,PT: Nickelodeon
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139535
+#EXTINF:-1,PT: NOS Studios
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140364
+#EXTINF:-1,PT: NOS Studios FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140366
+#EXTINF:-1,PT: NOS Studios HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140365
+#EXTINF:-1,PT: Odisseia HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83278
+#EXTINF:-1,PT: Panda Biggs
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139537
+#EXTINF:-1,PT: PFC
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139538
+#EXTINF:-1,PT: RTP 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140352
+#EXTINF:-1,PT: RTP 1 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139540
+#EXTINF:-1,PT: RTP 1 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140353
+#EXTINF:-1,PT: RTP 2 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139541
+#EXTINF:-1,PT: RTP 2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140354
+#EXTINF:-1,PT: RTP 3
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139542
+#EXTINF:-1,PT: RTP 3 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140356
+#EXTINF:-1,PT: RTP Africa
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83284
+#EXTINF:-1,PT: RTP Arena
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140410
+#EXTINF:-1,PT: RTP Açores
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139543
+#EXTINF:-1,PT: RTP Madeira
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139545
+#EXTINF:-1,PT: RTP Memoria
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139546
+#EXTINF:-1,PT: SIC Caras
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139548
+#EXTINF:-1,PT: SIC FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139547
+#EXTINF:-1,PT: SIC K
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140358
+#EXTINF:-1,PT: SIC Mulher
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139549
+#EXTINF:-1,PT: SIC Notícias
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139550
+#EXTINF:-1,PT: SIC Notícias HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150017
+#EXTINF:-1,PT: SIC Radical
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139552
+#EXTINF:-1,PT: Sport TV 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139556
+#EXTINF:-1,PT: Sport TV 1 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139557
+#EXTINF:-1,PT: Sport TV 1 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140380
+#EXTINF:-1,PT: Sport TV 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139558
+#EXTINF:-1,PT: Sport TV 2 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139559
+#EXTINF:-1,PT: Sport TV 2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140381
+#EXTINF:-1,PT: Sport TV 3
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139560
+#EXTINF:-1,PT: Sport TV 3 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139561
+#EXTINF:-1,PT: Sport TV 3 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140382
+#EXTINF:-1,PT: Sport TV 4
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139562
+#EXTINF:-1,PT: Sport TV 4 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139563
+#EXTINF:-1,PT: Sport TV 4 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140985
+#EXTINF:-1,PT: Sport TV 5
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139564
+#EXTINF:-1,PT: Sport TV 5 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139565
+#EXTINF:-1,PT: Sport TV 5 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140383
+#EXTINF:-1,PT: Sport TV 6
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147490
+#EXTINF:-1,PT: Sport TV 6 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/179426
+#EXTINF:-1,PT: Sport TV+
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139554
+#EXTINF:-1,PT: Sport TV+ FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139555
+#EXTINF:-1,PT: Sport TV+ HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140379
+#EXTINF:-1,PT: Sporting TV FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139566
+#EXTINF:-1,PT: SyFy
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139568
+#EXTINF:-1,PT: SyFy FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139569
+#EXTINF:-1,PT: TLC
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139570
+#EXTINF:-1,PT: Toros TV
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/154031
+#EXTINF:-1,PT: Trace Urban
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140399
+#EXTINF:-1,PT: Travel Channel FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83294
+#EXTINF:-1,PT: TV Galicia
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139580
+#EXTINF:-1,PT: TV Globo
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139581
+#EXTINF:-1,PT: TV Globo Premium HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139582
+#EXTINF:-1,PT: TVCINE Action
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139578
+#EXTINF:-1,PT: TVCINE Action FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139579
+#EXTINF:-1,PT: TVCINE Action HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140371
+#EXTINF:-1,PT: TVCINE Edition
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139575
+#EXTINF:-1,PT: TVCINE Edition FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139576
+#EXTINF:-1,PT: TVCINE Edition HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140368
+#EXTINF:-1,PT: TVCINE Emotion
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139577
+#EXTINF:-1,PT: TVCINE Emotion FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140370
+#EXTINF:-1,PT: TVCINE Emotion HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140369
+#EXTINF:-1,PT: TVCINE Top
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139573
+#EXTINF:-1,PT: TVCINE Top FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139574
+#EXTINF:-1,PT: TVCINE Top HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140367
+#EXTINF:-1,PT: TVI FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140359
+#EXTINF:-1,PT: TVI Ficção
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139588
+#EXTINF:-1,PT: TVI Reality
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139589
+#EXTINF:-1,PT: TVI Reality Camera 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140360
+#EXTINF:-1,UK: BT Sport 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/169499
+#EXTINF:-1,US: A&E HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139604
+#EXTINF:-1,US: ABC West HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139606
+#EXTINF:-1,US: ABC New York
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139605
+#EXTINF:-1,US: ABC Milwaukee
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164642
+#EXTINF:-1,US: AMC HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139607
+#EXTINF:-1,US: American Heroes Channel
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139608
+#EXTINF:-1,US: Animal Planet HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139609
+#EXTINF:-1,US: AXS TV Caribbean
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/146919
+#EXTINF:-1,US: Bein Sports USA HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139610
+#EXTINF:-1,US: Bloomberg TV FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139611
+#EXTINF:-1,US: Boomerang
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139612
+#EXTINF:-1,US: Bravo
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139613
+#EXTINF:-1,US: C-SPAN
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/146918
+#EXTINF:-1,US: C-SPAN 3
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139614
+#EXTINF:-1,US: Cartoon Network
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139616
+#EXTINF:-1,US: CBS
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139617
+#EXTINF:-1,US: CBS 46 Atlanta
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164643
+#EXTINF:-1,US: CBS Sports HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139618
+#EXTINF:-1,US: Cinemax West
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139619
+#EXTINF:-1,US: Cinemax ActionMax East
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139621
+#EXTINF:-1,US: Cinemax HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139622
+#EXTINF:-1,US: Cinemax MoreMax
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139624
+#EXTINF:-1,US: Cinemax East
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139623
+#EXTINF:-1,US: CMT
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139620
+#EXTINF:-1,US: CNBC
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139625
+#EXTINF:-1,US: CNN HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139626
+#EXTINF:-1,US: CNN US HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139627
+#EXTINF:-1,US: Comedy Central HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139628
+#EXTINF:-1,US: Cooking Channel
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/87322
+#EXTINF:-1,US: Destination America
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139629
+#EXTINF:-1,US: Discovery Channel
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139631
+#EXTINF:-1,US: Discovery Science
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139630
+#EXTINF:-1,US: Disney JR HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139633
+#EXTINF:-1,US: DIY Network
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139634
+#EXTINF:-1,US: WE TV
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139708
+#EXTINF:-1,US: ESPN
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139635
+#EXTINF:-1,US: ESPN News HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139638
+#EXTINF:-1,US: ESPN U
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139637
+#EXTINF:-1,US: ESPN U HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139639
+#EXTINF:-1,US: ESPN2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139636
+#EXTINF:-1,US: Fight Network HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139640
+#EXTINF:-1,US: MA Boston ABC
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140834
+#EXTINF:-1,US: FOX New York
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139642
+#EXTINF:-1,US: ABC Miami
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139646
+#EXTINF:-1,US: FOX Business
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/154566
+#EXTINF:-1,US: FOX Miami
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/154565
+#EXTINF:-1,US: Fox News
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/146912
+#EXTINF:-1,US: FOX News HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139643
+#EXTINF:-1,US: FOX Sports 1 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139644
+#EXTINF:-1,US: FOX Sports 2 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139645
+#EXTINF:-1,US: FUSE
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/146921
+#EXTINF:-1,US: FX
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139648
+#EXTINF:-1,US: GOL TV (ES)
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150145
+#EXTINF:-1,US: GOL TV (ES)
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/146914
+#EXTINF:-1,US: Grit TV
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139649
+#EXTINF:-1,US: Hallmark
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139650
+#EXTINF:-1,US: Hallmark Movies&Mysteries
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139651
+#EXTINF:-1,US: HBO 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139652
+#EXTINF:-1,US: HBO HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139653
+#EXTINF:-1,US: HBO Signature
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139654
+#EXTINF:-1,US: HBO Zone
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139655
+#EXTINF:-1,US: HGTV HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139656
+#EXTINF:-1,US: History Channel
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139657
+#EXTINF:-1,US: HLN
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/148199
+#EXTINF:-1,US: Investigation Discovery
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139658
+#EXTINF:-1,US: iON
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139659
+#EXTINF:-1,US: LMN -  Lifetime Movie Network HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139660
+#EXTINF:-1,US: Longhorn Network
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/146916
+#EXTINF:-1,US: MAV TV
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/150148
+#EXTINF:-1,US: MLB Network
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139661
+#EXTINF:-1,US: Motor Trend (Velocity)
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/146924
+#EXTINF:-1,US: MSG HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139662
+#EXTINF:-1,US: MSNBC
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139663
+#EXTINF:-1,US: MTV
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139665
+#EXTINF:-1,US: MTV Classic
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139666
+#EXTINF:-1,US: National Geographic
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139667
+#EXTINF:-1,US: NBC
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139668
+#EXTINF:-1,US: NBC Sports Philadelphia
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/146909
+#EXTINF:-1,US: NBC Golf
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139669
+#EXTINF:-1,US: NBC Los Angeles
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/164644
+#EXTINF:-1,US: NBCSN HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139670
+#EXTINF:-1,US: NFL Network
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139671
+#EXTINF:-1,US: NFL Network HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139672
+#EXTINF:-1,US: NHL Network
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139674
+#EXTINF:-1,US: Nickelodeon
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139675
+#EXTINF:-1,US: Outdoor Channel HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139677
+#EXTINF:-1,US: OWN
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139678
+#EXTINF:-1,US: PAC-12 Arizona
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139679
+#EXTINF:-1,US: PAC-12 Bay Area
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139680
+#EXTINF:-1,US: PAC-12 Los Angeles
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139681
+#EXTINF:-1,US: Pac-12 Los Angeles
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/146917
+#EXTINF:-1,US: PAC-12 Oregon
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139682
+#EXTINF:-1,US: PAC-12 Washington
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139683
+#EXTINF:-1,US: Paramount Network
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139687
+#EXTINF:-1,US: QVC
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/148198
+#EXTINF:-1,US: REELZ
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147448
+#EXTINF:-1,US: SEC Network
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139684
+#EXTINF:-1,US: Showtime 1
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139685
+#EXTINF:-1,US: Showtime 2
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139686
+#EXTINF:-1,US: Showtime Extreme
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139632
+#EXTINF:-1,US: Sportsnet 360 HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139688
+#EXTINF:-1,US: Starz Cinema
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139689
+#EXTINF:-1,US: Starz Comedy
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139690
+#EXTINF:-1,US: Starz East
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139693
+#EXTINF:-1,US: Starz Edge
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139691
+#EXTINF:-1,US: Starz Encore
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139692
+#EXTINF:-1,US: STARZ Kids & Family
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/146923
+#EXTINF:-1,US: SUNDANCE
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147993
+#EXTINF:-1,US: SyFy HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139694
+#EXTINF:-1,US: TBS HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139695
+#EXTINF:-1,US: Tennis Channel HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139696
+#EXTINF:-1,US: Nick Music
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139603
+#EXTINF:-1,US: The Golf Channel
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83441
+#EXTINF:-1,US: The Weather Channel
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/146911
+#EXTINF:-1,US: The Weather Channel
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139704
+#EXTINF:-1,US: TLC HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139720
+#EXTINF:-1,US: TNT HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139697
+#EXTINF:-1,US: TV ONE
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/146922
+#EXTINF:-1,US: UFC
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139700
+#EXTINF:-1,US: USA Network
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139701
+#EXTINF:-1,US: WGN America HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139705
+#EXTINF:-1,US: WWE NETWORK
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139706
+#EXTINF:-1,US: YES Network
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/139707
+#EXTINF:-1,US: STARZ Cinema
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/146920
+#EXTINF:-1,Playboy HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83286
+#EXTINF:-1,Playboy TV SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83598
+#EXTINF:-1,Playboy FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147354
+#EXTINF:-1,XXX | 4K | BangBros 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152325
+#EXTINF:-1,XXX | 4K | BangBros 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152326
+#EXTINF:-1,XXX | 4K | BangBros 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152327
+#EXTINF:-1,XXX | 4K | CarnaFunk 2019
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162978
+#EXTINF:-1,XXX | 4K | BangBros 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152328
+#EXTINF:-1,XXX | 4K | Holed 01 
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151528
+#EXTINF:-1,XXX | 4K | Holed 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151675
+#EXTINF:-1,XXX | 4K | Holed 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151676
+#EXTINF:-1,XXX | 4K | Holed 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151677
+#EXTINF:-1,XXX | 4K | Holed 05
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151678
+#EXTINF:-1,XXX | 4K | Holed 06
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151873
+#EXTINF:-1,XXX | 4K | Holed 07
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151874
+#EXTINF:-1,XXX | 4K | Holed 08
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151875
+#EXTINF:-1,XXX | 4K | Holed 10
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152062
+#EXTINF:-1,XXX | 4K | Holed 09
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151876
+#EXTINF:-1,XXX 4K Brasileirinhas: Contos do Big
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83765
+#EXTINF:-1,XXX 4K Brasileirinhas: Contos Eróticos
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83280
+#EXTINF:-1,XXX A Casa das Brasileirinhas Vol. 62
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152671
+#EXTINF:-1,XXX A Casa das Brasileirinhas Vol. 63
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152672
+#EXTINF:-1,XXX Alexandre Frota
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162977
+#EXTINF:-1,XXX Aline Rios
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162903
+#EXTINF:-1,XXX Alessandra Marques
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162904
+#EXTINF:-1,XXX Abella Danger
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162851
+#EXTINF:-1,XXX Ana Julia
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162906
+#EXTINF:-1,XXX Analine
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162948
+#EXTINF:-1,XXX Asiaticas 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162976
+#EXTINF:-1,XXX Asiaticas 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162975
+#EXTINF:-1,XXX Asiaticas 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162974
+#EXTINF:-1,XXX Asiaticas 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162973
+#EXTINF:-1,XXX Brad Montana 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162950
+#EXTINF:-1,XXX Brad Montana 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162951
+#EXTINF:-1,XXX Brad Montana 03
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162952
+#EXTINF:-1,XXX Brad Montana 04
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162953
+#EXTINF:-1,XXX Brad Montana 06
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162955
+#EXTINF:-1,XXX Brad Montana 05
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162954
+#EXTINF:-1,XXX Brad Montana 07
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162956
+#EXTINF:-1,XXX Brad Montana 08
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162957
+#EXTINF:-1,XXX Brad Montana 09
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162958
+#EXTINF:-1,XXX Brad Montana 10
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162959
+#EXTINF:-1,XXX Brad Montana 12
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162972
+#EXTINF:-1,XXX Brad Montana 11
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162971
+#EXTINF:-1,XXX Brazzers 01 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151881
+#EXTINF:-1,XXX Brazzers 02 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152057
+#EXTINF:-1,XXX Brazzers 03 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152058
+#EXTINF:-1,XXX Brazzers 04 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152059
+#EXTINF:-1,XXX Brazzers 05 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152060
+#EXTINF:-1,XXX Brazzers 06 FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/152061
+#EXTINF:-1,XXX Carol Fenix
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83290
+#EXTINF:-1,XXX Esposa Heyya [amador]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162907
+#EXTINF:-1,XXX Fernandinha Fernandez
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162905
+#EXTINF:-1,XXX Gina Jolie
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162908
+#EXTINF:-1,XXX Julia Mattos
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/163032
+#EXTINF:-1,XXX Julia Paes
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162913
+#EXTINF:-1,XXX Julianna Vega
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162911
+#EXTINF:-1,XXX Loupan
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162912
+#EXTINF:-1,XXX Manu Fox
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83279
+#EXTINF:-1,XXX Mia Linz
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/163033
+#EXTINF:-1,XXX Monica Santiago
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83620
+#EXTINF:-1,XXX Nicolle Bittencourt
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83761
+#EXTINF:-1,XXX Pamela Pantera
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83760
+#EXTINF:-1,XXX Rafaela Nakamura
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/163276
+#EXTINF:-1,XXX Rita Cadillac 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83767
+#EXTINF:-1,XXX Rita Cadillac 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83766
+#EXTINF:-1,XXX Show de Bundas 01
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83764
+#EXTINF:-1,XXX Show de Bundas 02
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83763
+#EXTINF:-1,XXX Thammy Gretchen
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162910
+#EXTINF:-1,XXX Wanessa Boyer
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/162949
+#EXTINF:-1,XXX Yara Rocha
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/163275
+#EXTINF:-1,Nordeste FC 1 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83299
+#EXTINF:-1,Nordeste FC 2 HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83300
+#EXTINF:-1,Nordeste FC 2 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83301
+#EXTINF:-1,Nordeste FC 1 FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/83302
+#EXTINF:-1,VENUS FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/276478
+#EXTINF:-1,VENUS HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/276479
+#EXTINF:-1,VENUS SD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/276480
+#EXTINF:-1,Rock To You
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/141040
+#EXTINF:-1,Edmonton CHEDAM
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/143730
+#EXTINF:-1,Playboy FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147749
+#EXTINF:-1,Playboy HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147750
+#EXTINF:-1,RedTraffic TV Anal
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149398
+#EXTINF:-1,RedTraffic TV Big Ass
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149385
+#EXTINF:-1,RedTraffic TV Big Dick
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149381
+#EXTINF:-1,RedTraffic TV Big Tits
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149382
+#EXTINF:-1,RedTraffic TV Blonde
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149401
+#EXTINF:-1,RedTraffic TV Blowjob
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149389
+#EXTINF:-1,RedTraffic TV Brunette
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149400
+#EXTINF:-1,RedTraffic TV Compilation
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149399
+#EXTINF:-1,RedTraffic TV Cuckold
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149392
+#EXTINF:-1,RedTraffic TV Fetish
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149383
+#EXTINF:-1,RedTraffic TV Gangbang
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149397
+#EXTINF:-1,RedTraffic TV Gay
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149402
+#EXTINF:-1,RedTraffic TV Hardcore
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149391
+#EXTINF:-1,RedTraffic TV Interracial
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149386
+#EXTINF:-1,RedTraffic TV Latina
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149387
+#EXTINF:-1,RedTraffic TV Lesbian
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149395
+#EXTINF:-1,RedTraffic TV Live Cams
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149379
+#EXTINF:-1,RedTraffic TV MILF
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149380
+#EXTINF:-1,RedTraffic TV Pornstar
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149384
+#EXTINF:-1,RedTraffic TV POV
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149388
+#EXTINF:-1,RedTraffic TV Rough
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149396
+#EXTINF:-1,RedTraffic TV Russian
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149394
+#EXTINF:-1,RedTraffic TV Teen
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149390
+#EXTINF:-1,RedTraffic TV Threesome
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/149393
+#EXTINF:-1,Sexy Hot FHD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147753
+#EXTINF:-1,Sexy Hot HD [Alt]
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/147754
+#EXTINF:-1,SP: energia 97
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/140287
+#EXTINF:-1,Visit-X TV HD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/141034
+#EXTINF:-1,XXX Mofos Latina Sex FHD
+http://splaytv.io:80/Powj380BCn/9HSw293T4lfcpXPcsQQ/151325
